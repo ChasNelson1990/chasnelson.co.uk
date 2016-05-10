@@ -238,6 +238,7 @@ img#bio {
     img#bio {
         float:none;
 	margin: 0 auto;
+	display: block;
     }
 }
 
