@@ -158,7 +158,7 @@ header {
   text-align: center;
   background-color: #00a8a8;
   background-position: center top;
-  
+
   -moz-background-size: 1360px auto;
   -o-background-size: 1360px auto;
   -webkit-background-size: 1360px auto;
@@ -430,6 +430,7 @@ footer .right-content:after {
     height: auto;
     padding-bottom: 0;
     *zoom: 1;
+    bottom: auto;
   }
 
   footer .left-content .menu-footer:before, footer .left-content .menu-footer:after {
