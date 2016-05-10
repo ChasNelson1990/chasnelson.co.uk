@@ -60,7 +60,7 @@ h3 {
   display: flex;
   align-items: center;
   min-width: 300px;
-  margin: 0 auto 20px;
+  margin: 0 auto 30px;
 }
 
 @media screen and (max-width:480px) {
