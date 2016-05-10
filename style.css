@@ -56,12 +56,11 @@ h3 {
 }
 
 .headline {
-  margin-left: 8.38%;
-  margin-bottom: 20px;
-  float: left;
+  float: right;
   display: flex;
   align-items: center;
   min-width: 300px;
+  margin: 0 auto 20px;
 }
 
 @media screen and (max-width:480px) {
