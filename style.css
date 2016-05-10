@@ -55,13 +55,6 @@ h3 {
   *zoom: 1;
 }
 
-@media screen and (max-width:480px) {
-  .headline {
-    padding: 0;
-    margin-bottom: 0;
-  }
-}
-
 .headline {
   margin-left: 8.38%;
   margin-bottom: 5px;
@@ -69,6 +62,13 @@ h3 {
   display: flex;
   align-items: center;
   min-width: 300px;
+}
+
+@media screen and (max-width:480px) {
+  .headline {
+    padding: 0;
+    margin-bottom: 15px;
+  }
 }
 
 .headline > a {
@@ -385,7 +385,11 @@ footer .right-content:after {
   }
 
   header {
-    margin-top: 60px;
+    margin-top: 80px;
+  }
+  
+  header > h2 {
+    margin: 20px auto 5px;
   }
 
   header .content {
