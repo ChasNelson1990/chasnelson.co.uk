@@ -190,6 +190,10 @@ div.container {
     align-items: center;
 }
 
+div.container.top-align {
+    align-items: flex-start;
+}
+
 div.logo {
     display: flex;
     align-items: center;
@@ -386,7 +390,7 @@ footer .right-content:after {
   header {
     margin-top: 80px;
   }
-  
+
   header > h2 {
     margin: 20px auto 5px;
   }
