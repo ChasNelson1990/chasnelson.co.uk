@@ -218,10 +218,17 @@ div.icon > p {
     text-align: center;
 }
 
-div.icon > img {
+div.icon img {
     width: 80px;
     height: 80px;
     margin: 5px;
+}
+
+div.icon > a {
+    display:inline-block;
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 div.group-outer > h3 {
