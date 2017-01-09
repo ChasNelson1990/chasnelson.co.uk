@@ -3,10 +3,12 @@ body {
   width: 100%;
   max-width: 800px;
   *zoom: 1;
-  font-family: SansGuiltMBMedium, Arial, sans-serif;
+  font-family: Genome, Arial, sans-serif;
   font-size: 12pt;
   background: transparent;
   margin: 0 auto;
+  background-color: #FFFFFF;
+  color: #000000;
 }
 
 .outer-container {
@@ -19,19 +21,19 @@ body {
 
 /* begin: typography */
 h1, h2, h3, h4, h5 {
-    font-family: LilGroteskBold, Arial, sans-serif;
+    font-family: RailwayRegular, Arial, sans-serif;
 }
 
 h1 {
     font-size: 4.236 em;
     text-align: left;
-    color: #0A7B7B;
+    color: #133348;
 }
 
 h2 {
     font-size: 2.618 em;
     text-align:center;
-    colour: #FFFFFF;
+    color: #FFFFFF;
 }
 
 h3 {
@@ -60,7 +62,7 @@ h3 {
   display: flex;
   align-items: center;
   min-width: 300px;
-  margin: 0 auto 30px;
+  margin: 0 10% 30px 0;
 }
 
 @media screen and (max-width:480px) {
@@ -74,14 +76,17 @@ h3 {
   width: 100%;
   color: #555555;
   text-transform: uppercase;
-  font-weight: bold;
+  /*font-weight: bold;*/
+  letter-spacing: 0.5em;
   text-decoration: none;
   text-align: right;
+  margin-right: 2em;
 }
 
 .headline > img {
   height: 40px;
   width: auto;
+  margin-right: 1em;
 }
 /* end: headline */
 
@@ -92,7 +97,7 @@ nav {
 	border: none;
 	right: 500px;
 	position: absolute;
-	right:20px;
+	right:10%;
 	bottom: 0;
 }
 @media screen and (max-width: 760px) {
@@ -114,7 +119,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #0A7B7B;
+  color: #133348;
   text-decoration: none;
   width: 135px;
   text-align: center;
@@ -122,11 +127,11 @@ nav ul li a {
   height: 41px;
   line-height: 41px;
   text-transform: uppercase;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 nav ul li a:hover {
-  background-color: #0A7B7B;
+  background-color: #133348;
   color: #fff;
 }
 
@@ -143,7 +148,7 @@ nav>ul {
 }
 
 nav a, nav a:active, nav a:hover, nav a:visited, nav a:focus{
-    color: #0A7B7B;
+    color: #133348;
     text-decoration: none;
 }
 /* end: navigation bag & menu */
@@ -155,7 +160,7 @@ header {
   margin: 120px auto 20px;
   padding-top: 80px;
   text-align: center;
-  background-color: #0A7B7B;
+  background-color: #133348;
   background-position: center top;
 
   -moz-background-size: 1360px auto;
@@ -247,7 +252,7 @@ img#bio {
 @media screen and (max-width: 500px) {
     img#bio {
         float:none;
-	margin: 0 auto;
+	margin: 2.5% auto;
 	display: block;
     }
 }
@@ -255,7 +260,7 @@ img#bio {
 @media screen and (min-width: 500px) {
     img#bio {
         float:right;
-        margin: 2px 5px 5px;
+        margin: 2.5%;
     }
 }
 /* end: index.html */
@@ -333,6 +338,7 @@ footer .right-content {
   margin-right: 66px;
   *zoom: 1;
   float: right;
+  font-size: small;
 }
 
 footer .right-content:before, footer .right-content:after {
@@ -500,11 +506,6 @@ img#filter {
     box-sizing: border-box;
 }
 
-body {
-    background-color: #FFFFFF;
-    color: #181818;
-}
-
 /* primary container, responsive */
 .container {
     margin: 0 auto;
@@ -588,15 +589,11 @@ p {
     margin: 0 auto 1rem;
 }
 
-small {
-    font-size: 0.618 em;
-}
-
 .page-meta {
     margin-top: 1rem;
 }
 
-cite { color: #0A7B7B; }
+cite { color: #133348; }
 
 /* LISTS */
 ul {
@@ -610,7 +607,7 @@ ul {
 
 /* LINKS */
 a, a:active, a:visited, a:hover {
-    color: #0000AA;
+    color: #AA0000;
     text-decoration: underline;
 }
 
