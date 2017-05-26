@@ -60,9 +60,9 @@ h3 {
 .headline {
   float: right;
   display: flex;
-  align-items: center;
-  min-width: 300px;
-  margin: 0 10% 30px 0;
+  align-items: right;
+  min-width: 250px;
+  margin: 0 10% 30px 10%;
 }
 
 @media screen and (max-width:480px) {
@@ -266,11 +266,11 @@ img#bio {
 /* end: index.html */
 
 a, a:visited, a:active {
-  color: #13c4a5;
+  color: #aa0000;
 }
 
 a:hover {
-  color: #777;
+  color: #133348;
 }
 
 section:before,
@@ -299,6 +299,7 @@ header .content ul:after {
 }
 
 footer {
+  clear: both;
   padding-top: 25px;
   *zoom: 1;
 }
@@ -391,7 +392,6 @@ footer .right-content:after {
     margin-right: 12px;
     margin-top: 10px;
     font-size: 20px;
-    text-shadow: 0px 1px 0px rgba(51, 51, 51, 0.5);
     text-transform: uppercase;
     text-decoration: none;
   }
@@ -401,7 +401,7 @@ footer .right-content:after {
   }
 
   header {
-    margin-top: 80px;
+    margin-top: 120px;
   }
 
   header > h2 {
@@ -430,11 +430,11 @@ footer .right-content:after {
 
   footer .left-content {
     display: inline;
-    float: left;
-    width: 97.02380952380952%;
-    margin: 0 1.488095238095238%;
+    width: 100%;
+    margin: 0 auto;
     *zoom: 1;
     margin: 30px 0 10px;
+    text-align: center;
   }
 
   footer .left-content:before, footer .left-content:after {
@@ -467,7 +467,7 @@ footer .right-content:after {
     display: inline;
     float: left;
     width: 100%;
-    margin: 0 1.488095238095238%;
+    margin: 0 auto;
   }
 
   footer .left-content #menu-footer ul li {
@@ -528,24 +528,6 @@ img#filter {
     *zoom: 1;
 }
 
-/* GRID */
-/* On small devices all columns are 100% wide with a small margin at the base */
-.column {
-    width: 100%;
-}
-@media (min-width: 40rem) {
-    .column {
-        float: left;
-        margin: 0;
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-
-    .column.two-thirds { width: 66.7%; }
-    .column.third { width: 33.3%; }
-    .column.flow-opposite { float: right; }
-}
-
 /*FOOTER*/
 
 div>footer {
@@ -572,7 +554,7 @@ footer nav>ul{
 }
 
 footer nav>ul li {
-    padding-right: 1rem;
+    /*padding-right: 1rem;*/
 }
 
 footer nav>ul li:first-child{
@@ -590,6 +572,7 @@ p {
 }
 
 .page-meta {
+    /*text-align: right;*/
     margin-top: 1rem;
 }
 
@@ -612,3 +595,58 @@ a, a:active, a:visited, a:hover {
 }
 
 a:hover, a:active { text-decoration: none; }
+
+/* GRID */
+/* On small devices all columns are 100% wide with a small margin at the base */
+.column {
+    width: 100%;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+@media (min-width: 40rem) {
+    .column {
+        margin: 0;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .column.two-thirds { width: 66.7%; }
+    .column.third { width: 33.3%; }
+    .column.flow-opposite { float: right; }
+}
+
+/* Additions 2017-05-20++ */
+
+#toc {
+  position: fixed;
+  top: 200;
+  right: 0;
+}
+
+.backup {
+  width: 100%;
+  display:inline-block;
+  font-size: small;
+  text-align: right;
+}
+
+img.research-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  #toc {
+    display: block;
+    position: relative;
+    top: -30px;
+  }
+  /*img.research-banner {
+    display: none;
+  }*/
+}
