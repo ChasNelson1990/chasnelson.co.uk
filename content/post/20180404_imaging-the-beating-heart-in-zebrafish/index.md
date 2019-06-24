@@ -10,7 +10,7 @@ featured: false
 draft: false
 slug: "imaging-the-beating-heart"
 ---
-2018 has been a busy year so far (and I expect it will stay that way) but I’ve finally made time to write another blog post (and also to move my blog into my personal website). Given that so far this year I’ve spoken about my current research &#8211; imaging the beating zebrafish heart &#8211; to audiences of academics, the public & students I thought it was about time to do a blog post summarising said research. Hopefully this short post will provide you with an idea of what we’re trying to achieve, why and how we’re going about it (although I&#8217;ve kept off too much detail for now).
+2018 has been a busy year so far (and I expect it will stay that way) but I’ve finally made time to write another blog post (and also to move my blog into my personal website). Given that so far this year I’ve spoken about my current research - imaging the beating zebrafish heart - to audiences of academics, the public & students I thought it was about time to do a blog post summarising said research. Hopefully this short post will provide you with an idea of what we’re trying to achieve, why and how we’re going about it (although I've kept off too much detail for now).
 
 ## The Challenge of a Beating Heart
 
@@ -34,13 +34,13 @@ This approach actually has additional benefits. Not only can synchronised 3D ima
 
 ## The 3Rs
 
-Part of the work that I&#8217;ve been focussing on during my time at Glasgow is to help improve the system so that instead of only being able to capture short timelapse videos, e.g. one 3D stack ever two minutes for half an hour to an hour, we able to capture timelapse videos over timescales relevant to development and injury-response, e.g. 12+ hours.
+Part of the work that I've been focussing on during my time at Glasgow is to help improve the system so that instead of only being able to capture short timelapse videos, e.g. one 3D stack ever two minutes for half an hour to an hour, we able to capture timelapse videos over timescales relevant to development and injury-response, e.g. 12+ hours.
 
 A standard approach to this would be to injure a batch of fish and image different fish at different timepoints throughout the injury-response process. Each fish might then be killed so that imaging becomes a simple process; however, this leads to a drop in blood pressure and a change in heart and blood vessel shape.
 
-Alternatively, the heart might be imaged in the living fish; however, common imaging approaches other than the optical gating described above often cause a response in the heart such as a change in heart rate. We&#8217;ve even seen a macrophage, i.e. injury, response to one alternative imaging approiach. As such, these approaches can&#8217;t be used at several timepoints in a single fish as the imaging itself could be inducing an injury response &#8211; the very thing we&#8217;re trying to measure.
+Alternatively, the heart might be imaged in the living fish; however, common imaging approaches other than the optical gating described above often cause a response in the heart such as a change in heart rate. We've even seen a macrophage, i.e. injury, response to one alternative imaging approiach. As such, these approaches can't be used at several timepoints in a single fish as the imaging itself could be inducing an injury response - the very thing we're trying to measure.
 
-By improving our optical gating approach so that timelapse images can be taken over 24 hours or more (see \[3] for the technical detail) we&#8217;ve developed a system that can reduced the numbers of animals needed in an experiment and refined the experiment by minimising invasiveness and possible injury. These are two of the 3Rs, the guiding principles of using animals in research [4\] (see [my earlier post](https://www.chasnelson.co.uk/2017/11/10/better-imaging-of-living-animals-and-the-3rs/)).
+By improving our optical gating approach so that timelapse images can be taken over 24 hours or more (see \[3] for the technical detail) we've developed a system that can reduced the numbers of animals needed in an experiment and refined the experiment by minimising invasiveness and possible injury. These are two of the 3Rs, the guiding principles of using animals in research [4\] (see [my earlier post](https://www.chasnelson.co.uk/2017/11/10/better-imaging-of-living-animals-and-the-3rs/)).
 
 ## The 3Ps
 
@@ -48,7 +48,7 @@ Finally, this approach has benefits in terms of phototoxicity, photodamage and p
 
 Further, if the fluorophore being imaged is particularly susceptible to photobleaching, an often dramatic loss of brightness, then the low-light nature of our system will reduce the impact this has on imaging. Thus allowing imaging for longer with minimal changes in intensity of signal.
 
-### The Beat Goes On&#8230;
+### The Beat Goes On...
 
 With recent improvements in our algorithms we are now able to capture images of a computationally frozen heart for over 24 hours. This allows our collaborators to count and track macrophages and neutrophils for several hours after an induced injury. We are also able to follow morphological changes throughout heart development in zebrafish embryos. Our collaborators are now using these technologies to allow quantified, high resolution imaging of heart injury response. Hopefully this will lead to new discoveries in cardiac repair that, after further research, might make their way in to humans.
 

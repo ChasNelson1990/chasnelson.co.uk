@@ -24,9 +24,9 @@ But, one of the most important light sources in modern, state-of-the-art microsc
 
 ## Light vs. Biologists: Round One!
 
-So, as microscopy technology has developed we&#8217;ve moved to stronger, more specific and more focussed light sources. And this has, in turn, allowed us to get clearer, higher resolution images and is now allowing optical microscopy to near the resolutions achieved by electron microscopy. But using light has its costs and, as microscopists and biologists, it&#8217;s very important for us to keep these costs in mind.
+So, as microscopy technology has developed we've moved to stronger, more specific and more focussed light sources. And this has, in turn, allowed us to get clearer, higher resolution images and is now allowing optical microscopy to near the resolutions achieved by electron microscopy. But using light has its costs and, as microscopists and biologists, it's very important for us to keep these costs in mind.
 
-I think it&#8217;s fair to say that a lot of biology doesn&#8217;t really like light. Obviously, there are systems that have developed to exploit the energy provided by the suns light, e.g. photosynthesis, but light, and the energy contained, causes lots of problems to our cells. For example, if you sunbathe without protection the energy from UV rays, which are just a wavelength of light, cause damage to your DNA, which you cells must correct. A combination of mutations caused by UV and various causes, along with genetic predisposition, can lead to skin cancers [3]: a clear negative effect of light on biology.
+I think it's fair to say that a lot of biology doesn't really like light. Obviously, there are systems that have developed to exploit the energy provided by the suns light, e.g. photosynthesis, but light, and the energy contained, causes lots of problems to our cells. For example, if you sunbathe without protection the energy from UV rays, which are just a wavelength of light, cause damage to your DNA, which you cells must correct. A combination of mutations caused by UV and various causes, along with genetic predisposition, can lead to skin cancers [3]: a clear negative effect of light on biology.
 
 In fact, all light has an effect on biological tissue, especially at shorter wavelengths (green and blue visible light, UV light). Unfortunately, until very recently, producing bright blue, green and yellow fluorescent proteins has been significantly easier than developing bright far-red and near-infrared proteins. As such, a significant amount of microscopy in recent years has been firing damaging light on our samples.
 
@@ -36,17 +36,15 @@ All is not lost. Although the damage light causes during microscopy can be sever
 
 This dialogue is extremely important but it must be a discussion that transcends disciplinary boundaries (transdisciplinary) and manufacturers and developers of microscope technologies must be as aware of and as open about the problems of light damage (photodamage/photoxicity) as biologists.
 
-## Biologists vs. Light: Round Three! A Knockout&#8230;?
+## Biologists vs. Light: Round Three! A Knockout...?
 
 Well, no. But with some clever design and thinking microscopists can develop systems that minimise the energy transferred to our samples from light. For example, in my current <a href="https://www.chasnelson.co.uk/research/" target="_blank" rel="noopener">research</a>, we are using a low intensity, infrared LED for constant imaging of zebrafish hearts. This light has a minimal to negligible effect on the fish.
 
-We&#8217;re able to use this low-damage imaging to trigger the capture of fluorescent images at very precise times, i.e. at specific points within the heartbeat. These fluorescent images, individually, also have a minimal effect on the fish&#8217;s health and stress levels. We are then able to computationally build a 3D image of the beating zebrafish heart and monitor the changes over hours and days to understand development, healing and regeneration.
+We're able to use this low-damage imaging to trigger the capture of fluorescent images at very precise times, i.e. at specific points within the heartbeat. These fluorescent images, individually, also have a minimal effect on the fish's health and stress levels. We are then able to computationally build a 3D image of the beating zebrafish heart and monitor the changes over hours and days to understand development, healing and regeneration.
 
 Alternative approaches to the problem of capturing images at specific points in the heartbeat have been to capture lots of fluorescent images at a high rate and computationally work out which ones were actually at the point you wanted afterwards. This is not only inefficient with your data but taking large numbers of these fluorescent images within a short timespan can have serious effects on heart and immune system activity.
 
 ## Biologists vs. Light: The Fight Continues
-
-&nbsp;
 
 ### References
 
