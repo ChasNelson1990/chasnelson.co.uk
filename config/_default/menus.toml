@@ -10,27 +10,37 @@
 
 [[main]]
   name = "The Little Eye"
-  url = "the-little-eye"
   identifier = "blog"
   weight = 20
 
 [[main]]
   parent = "blog"
-  name = "Microscopy Timeline"
-  url = ""
+  name = "Blog Posts"
+  url = "post"
   weight = 10
 
 [[main]]
+  parent = "blog"
+  name = "Microscopy Timeline"
+  url = ""
+  weight = 20
+
+[[main]]
   name = "Research"
-  url = "research"
   identifier = "research"
   weight = 30
 
 [[main]]
   parent = "research"
+  name = "Projects"
+  url = "research"
+  weight = 10
+
+[[main]]
+  parent = "research"
   name = "Publications"
   url = "#featured"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Research"
