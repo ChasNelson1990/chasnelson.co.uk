@@ -8,7 +8,7 @@ categories: []
 date: 2017-06-19T14:23:17+01:00
 featured: true
 draft: false
-slug: "welcome"
+slug: "intro"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
