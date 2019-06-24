@@ -65,3 +65,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# Permalinks
+[permalinks]
+    post = "/the-little-eye/:year/:month/:day/:slug"
