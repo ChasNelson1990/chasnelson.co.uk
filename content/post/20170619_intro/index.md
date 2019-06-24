@@ -27,7 +27,7 @@ projects: []
 ---
 ## About The Author
 
-Hi! My name is **Chas Nelson** and I&#8217;m an interdisciplinary scientist with a background in computational microscopy and bioimaging. My research interests are at the interface where microscopy, computer science and biology must come together to answer important biological questions. I&#8217;m also very interested in multidisciplinarity and interdisciplinarity as concepts across teaching, research, funding and policy. I&#8217;m the author of this little blog and you can find out more about me at my <a href="https://www.chasnelson.co.uk/" rel="noopener">personal webpages</a>.
+Hi! My name is **Chas Nelson** and I'm an interdisciplinary scientist with a background in computational microscopy and bioimaging. My research interests are at the interface where microscopy, computer science and biology must come together to answer important biological questions. I'm also very interested in multidisciplinarity and interdisciplinarity as concepts across teaching, research, funding and policy. I'm the author of this little blog and you can find out more about me at my [personal webpages]({{< ref "/">}}).
 
 <!--more-->
 
