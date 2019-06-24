@@ -6,7 +6,7 @@ authors: ["chas"]
 tags: ["interdisciplinarity"]
 categories: ["policy"]
 date: 2017-08-04T18:00:58+01:00
-featured: true
+featured: false
 draft: false
 slug: "future-of-uk-life-sciences"
 ---

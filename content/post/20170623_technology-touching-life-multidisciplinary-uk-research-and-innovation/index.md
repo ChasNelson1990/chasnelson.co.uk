@@ -6,7 +6,7 @@ authors: ["chas"]
 tags: ["meetings"]
 categories: ["academia"]
 date: 2017-06-23T21:29:30+01:00
-featured: true
+featured: false
 draft: false
 slug: "technology-touching-life"
 

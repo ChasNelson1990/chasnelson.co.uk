@@ -6,7 +6,7 @@ authors: ["chas"]
 tags: ["microscopes"]
 categories: ["outreach","research"]
 date: 2017-07-21T15:30:09+01:00
-featured: true
+featured: false
 draft: false
 slug: "mobile-phone-microscopes"
 

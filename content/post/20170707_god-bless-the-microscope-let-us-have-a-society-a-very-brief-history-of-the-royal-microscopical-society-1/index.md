@@ -6,7 +6,7 @@ authors: ["chas"]
 tags: ["societies"]
 categories: ["history"]
 date: 2017-07-07T21:34:31+01:00
-featured: true
+featured: false
 draft: false
 slug: "royal-microscopical-society-1"
 
