@@ -8,7 +8,7 @@ categories: ["history"]
 date: 2017-07-07T21:34:31+01:00
 featured: true
 draft: false
-slug: "technology-touching-life"
+slug: "royal-microscopical-society-1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

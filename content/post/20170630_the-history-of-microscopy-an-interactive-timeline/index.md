@@ -8,7 +8,7 @@ categories: ["history"]
 date: 2017-06-30T17:44:07+01:00
 featured: true
 draft: false
-slug: "technology-touching-life"
+slug: "microscopy-timeline"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
