@@ -5,7 +5,7 @@ summary: ""
 authors: ["chas"]
 tags: ["3Rs","phototoxicity","interdisciplinarity","microscopes","zebrafish"]
 categories: ["my research","research"]
-date: 2017-11-10T16:04:39+01:00
+date: 2018-04-04T17:12:05+01:00
 featured: false
 draft: false
 slug: "imaging-the-beating-heart"
