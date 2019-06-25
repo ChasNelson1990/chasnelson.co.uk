@@ -10,7 +10,7 @@ featured: false
 draft: false
 slug: "future-of-uk-life-sciences"
 ---
-Last month the House of Lords Science and Technology Select Committee, which scrutinises Government policy relating to science and technology, announced an inquiry into the future of UK life sciences [1]. This is off the back of the Government's Industrial Strategy Green Paper [2] and aims to investigate, amongst other things, whether or not the Government has the infrastructure to support an innovative life sciences sector in the UK.
+Last month the House of Lords Science and Technology Select Committee, which scrutinises Government policy relating to science and technology, announced an inquiry into the future of UK life sciences <a href="#lsis">[1]</a>. This is off the back of the Government's Industrial Strategy Green Paper <a href="#industry">[2]</a> and aims to investigate, amongst other things, whether or not the Government has the infrastructure to support an innovative life sciences sector in the UK.
 
 As somebody with a passion for bioimaging I thought I might stress the importance of bioimaging and similar supporting technologies. Without technologies such as bioimaging and next generation sequencing, the UK biosciences and bioeconomy would not be the innovative and world-class scene that it is. So, here it is, my two pence worth.
 
@@ -46,5 +46,7 @@ I could go on. But I won't. I'm sure similar arguments can be made for many diff
 
 ### References
 
-  1. <a href="https://www.parliament.uk/business/committees/committees-a-z/lords-select/science-and-technology-committee/news-parliament-2017/life-sciences-industrial-strategy-inquiry-launch/" target="_blank" rel="noopener">https://www.parliament.uk/business/committees/committees-a-z/lords-select/science-and-technology-committee/news-parliament-2017/life-sciences-industrial-strategy-inquiry-launch/</a>
-  2. <a href="https://www.gov.uk/government/consultations/building-our-industrial-strategy" target="_blank" rel="noopener">https://www.gov.uk/government/consultations/building-our-industrial-strategy</a>
+<ol>
+  <li id="lsis"><a href="https://www.parliament.uk/business/committees/committees-a-z/lords-select/science-and-technology-committee/news-parliament-2017/life-sciences-industrial-strategy-inquiry-launch/" target="_blank">https://www.parliament.uk/business/committees/committees-a-z/lords-select/science-and-technology-committee/news-parliament-2017/life-sciences-industrial-strategy-inquiry-launch/</a></li>
+  <li id="industry"><a href="https://www.gov.uk/government/consultations/building-our-industrial-strategy" target="_blank">https://www.gov.uk/government/consultations/building-our-industrial-strategy</a></li>
+</ol>

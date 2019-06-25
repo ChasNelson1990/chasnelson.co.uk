@@ -38,10 +38,11 @@ I will upload a post **every Friday**.
 
 ## Why "The Little Eye"?
 
-I've taken the name _The Little Eye_ from the earlier name Galileo Galilei, a person who is likely to crop up in my history posts,  has given to describe the early compound microscopes: "Occhiolino", Italian for "little eye" [1]. The term "microscope" was coined by Giovanni Faber, another person who's likely to appear in one of my history posts, and comes from the Greek words for "small" and "to look at", intended to be analogous to the contemporary telescope.
+I've taken the name _The Little Eye_ from the earlier name Galileo Galilei, a person who is likely to crop up in my history posts,  has given to describe the early compound microscopes: "Occhiolino", Italian for "little eye" <a href="#G1998">[1]</a>. The term "microscope" was coined by Giovanni Faber, another person who's likely to appear in one of my history posts, and comes from the Greek words for "small" and "to look at", intended to be analogous to the contemporary telescope.
 
 ### References
 
-  1. Gould, Stephen Jay. "The sharp-eyed lynx, outfoxed by nature." _Natural History_ 6 (1998): 98. _Note:_ I have not been able to find a free copy of this essay (usually in two parts) but a summary can be found [here](http://sjgouldessays.com/content/nh_essay_summaries_content/09%20Lying%20Stones%20of%20Marrakech.pdf) and it seems to have been published in a collection [2] that seems easy to find in libraries._
-_
-  2. Gould, Stephen Jay. _The lying stones of Marrakech: Penultimate reflections in natural history_. Random House, 2001.
+<ol>
+  <li id="G1998">Gould, Stephen Jay. "The sharp-eyed lynx, outfoxed by nature." <cite>Natural History</cite> 6 (1998): 98. <em>Note:</em> I have not been able to find a free copy of this essay (usually in two parts) but a summary can be found <a href="http://sjgouldessays.com/content/nh_essay_summaries_content/09%20Lying%20Stones%20of%20Marrakech.pdf">here</a> and it seems to have been published in a collection <a href="#G2001">[2]</a> that seems easy to find in libraries.</li>
+  <li id="G2001">Gould, Stephen Jay. <cite>The lying stones of Marrakech: Penultimate reflections in natural history</cite>. Random House, 2001.</li>
+</ol>

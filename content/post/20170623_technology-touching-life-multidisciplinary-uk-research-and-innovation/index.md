@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-This Tuesday (the 20th June 2017) I attended a workshop on the new _Technology Touching Life_ scheme being run by three of the UK's research councils [1]. The workshops (this was the last of three) were run jointly by the Biotechnology and Biological Sciences Research Council (BBSRC), the Engineering and Physical Sciences Reseasrch Council (EPSRC) and the Medical Research Council (MRC) to foster multidisciplinary and interdisciplinary networks and better integrate such research into the often disciplinary nature of the research councils.
+This Tuesday (the 20th June 2017) I attended a workshop on the new _Technology Touching Life_ scheme being run by three of the UK's research councils <a href="#ttl">[1]</a>. The workshops (this was the last of three) were run jointly by the Biotechnology and Biological Sciences Research Council (BBSRC), the Engineering and Physical Sciences Reseasrch Council (EPSRC) and the Medical Research Council (MRC) to foster multidisciplinary and interdisciplinary networks and better integrate such research into the often disciplinary nature of the research councils.
 
 Given the current changes in the research council structure, and the regularly recognised important of multidisciplinary research at this interface, can we expect to see a change in how the councils work together for better multidisciplinary research across the UK?
 
@@ -25,7 +25,7 @@ Given the current changes in the research council structure, and the regularly r
 
 ## The Research Councils and RCUK/UKRI
 
-Briefly, I should introduce the research councils for those who don't know what they are and what they do. Unfortunately, with the recent _Higher Education and Research Bill_ [2], this will be probably be out of date by the time anybody reads it!
+Briefly, I should introduce the research councils for those who don't know what they are and what they do. Unfortunately, with the recent _Higher Education and Research Bill_ <a href="#herb">[2]</a>, this will be probably be out of date by the time anybody reads it!
 
 Currently, the UK research councils are seven government bodies that fund strategic research and develop training and communities across the whole of academia from arts to zoology. Until the recent bill they were partnered under the banner of _Research Councils UK_ (RCUK), though they (in my experience) act as seven very separate bodies.
 
@@ -51,14 +51,16 @@ The challenges of multidisciplinary research and the problems of understanding a
 
 It's very important that I highlight here why and how the _Technology Touching Life _ scheme has come about. Essentially, in the last three years we have had two very important reports:
 
-  1. The 'Maxwell Report', or 'The Importance of Engineering and Physical Sciences Research to Health and Life Sciences' by Professor Patrick Maxwell, was an independent review published in 2014 by the EPSRC discussing the relationship between the engineering and physical sciences and health and life sciences [3]. The review considered how multidisciplinary institutes were structured, what research challenges exist at the interface and what role physical sciences have played and will play in life science research.
-  2. The 'Nurse Report', or 'Ensuring a Successful Research Endeavour: Review of the UK Research Councils' by Sir Paul Nurse in 2015, was a review produced for government about the past, current and future roles of the research councils in enabling the world-class research that happens across the UK [4]. It is this report that has lead to the _Higher Education and Research Bill._
+  1. The 'Maxwell Report', or 'The Importance of Engineering and Physical Sciences Research to Health and Life Sciences' by Professor Patrick Maxwell, was an independent review published in 2014 by the EPSRC discussing the relationship between the engineering and physical sciences and health and life sciences <a href="#M2014">[3]</a>. The review considered how multidisciplinary institutes were structured, what research challenges exist at the interface and what role physical sciences have played and will play in life science research.
+  2. The 'Nurse Report', or 'Ensuring a Successful Research Endeavour: Review of the UK Research Councils' by Sir Paul Nurse in 2015, was a review produced for government about the past, current and future roles of the research councils in enabling the world-class research that happens across the UK <a href="#N2015">[4]</a>. It is this report that has lead to the _Higher Education and Research Bill._
 
 And, because of these reports and other factors, the research councils at the engineering and physical sciences boundary with health and life sciences have chosen to look at how they enable the UK's multidisciplinary research in this area and what they can do to further that support.
 
 ### References
 
-  1. <a href="http://www.rcuk.ac.uk/research/xrcprogrammes/technology-touching-life/" target="_blank" rel="noopener">http://www.rcuk.ac.uk/research/xrcprogrammes/technology-touching-life/</a>
-  2. <a href="https://www.gov.uk/government/collections/higher-education-and-research-bill" target="_blank" rel="noopener">https://www.gov.uk/government/collections/higher-education-and-research-bill</a>
-  3. <a href="https://www.epsrc.ac.uk/newsevents/pubs/the-importance-of-engineering-and-physical-sciences-research-to-health-and-life-sciences/" target="_blank" rel="noopener">https://www.epsrc.ac.uk/newsevents/pubs/the-importance-of-engineering-and-physical-sciences-research-to-health-and-life-sciences/</a>
-  4. <a href="https://www.gov.uk/government/collections/nurse-review-of-research-councils" target="_blank" rel="noopener">https://www.gov.uk/government/collections/nurse-review-of-research-councils</a>
+<ol>
+  <li id="ttl"><a href="http://www.rcuk.ac.uk/research/xrcprogrammes/technology-touching-life/" target="_blank">http://www.rcuk.ac.uk/research/xrcprogrammes/technology-touching-life/</a></li>
+  <li id="herb"><a href="https://www.gov.uk/government/collections/higher-education-and-research-bill" target="_blank">https://www.gov.uk/government/collections/higher-education-and-research-bill</a></li>
+  <li id="M2014"><a href="https://www.epsrc.ac.uk/newsevents/pubs/the-importance-of-engineering-and-physical-sciences-research-to-health-and-life-sciences/" target="_blank">https://www.epsrc.ac.uk/newsevents/pubs/the-importance-of-engineering-and-physical-sciences-research-to-health-and-life-sciences/</a></li>
+  <li id="N2015"><a href="https://www.gov.uk/government/collections/nurse-review-of-research-councils" target="_blank">https://www.gov.uk/government/collections/nurse-review-of-research-councils</a></li>
+</ol>

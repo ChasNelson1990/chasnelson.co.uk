@@ -12,13 +12,13 @@ slug: "better-imaging-and-the-3rs"
 ---
 Recently, I was explaining my research to another academic from a different field. I was describing how, when imaging living animals under the microscope, we strive to keep laser power levels to the minimum needed. The question I got in return was: "Is that for the animal's sake or for the imaging?". And of course the answer is both - in general, I find that good science and better microscopy align very well with performing more humane animal research.
 
-This article is about how researchers are working to improve animal research by minimising numbers used, sharing animals and data and refining experimental procedures.  This is not an article on whether or not animal experimentation should or should not be done; that is a matter of personal ethics. However, should you be interested in the rules and regulations surrounding animal research in the UK, I would suggest you start with Understanding Animal Research [1] and the National Centre for the Replacement, Refinement and Reduction of Animals in Research (the NC3RS) [2].
+This article is about how researchers are working to improve animal research by minimising numbers used, sharing animals and data and refining experimental procedures.  This is not an article on whether or not animal experimentation should or should not be done; that is a matter of personal ethics. However, should you be interested in the rules and regulations surrounding animal research in the UK, I would suggest you start with Understanding Animal Research <a href="#understanding">[1]</a> and the National Centre for the Replacement, Refinement and Reduction of Animals in Research (the NC3RS) <a href="#nc3rs">[2]</a>.
 
 <!--more-->
 
 ## Principles of the 3Rs
 
-The 3Rs of Replacement, Reduction and Refinement having been guiding principles for the ethical use of animal research for almost 60 years now [3]. There are many places that state definitions but, for ease, these are the definitions as used by NC3RS:
+The 3Rs of Replacement, Reduction and Refinement having been guiding principles for the ethical use of animal research for almost 60 years now <a href="#RBH1959">[3]</a>. There are many places that state definitions but, for ease, these are the definitions as used by NC3RS:
 
 > Replacement - Accelerating the development and use of models and tools, based on the latest science and technologies, to address important scientific questions without the use of animals.
 >
@@ -32,7 +32,7 @@ All three of these principles are important to better science and collecting bet
 
 Reduction is perhaps the simplest of these three principles and the one that most clearly relates to excellence in science. Reduction refers to approaches that minimise the number of animals used in research. Importantly, reduction refers to using the minimum number of animals **needed** to answer the scientific question under study.
 
-Reduction can be accomplished by all researchers by incorporating best practices in experimental design, analysis and statistics [4]. This also ensures robust, reproducible findings - a central tenet of best scientific practice.
+Reduction can be accomplished by all researchers by incorporating best practices in experimental design, analysis and statistics <a href="#PdSBBetal2017">[4]</a>. This also ensures robust, reproducible findings - a central tenet of best scientific practice.
 
 Many projects aimed at reducing animal numbers take the form of improving longitudinal studies - studies that take measurements at several time points. With many approaches such studies require the killing of _N_ animals per time point. By incorporating state-of-the-art imaging technologies we are able to image each animal at all time points without killing animals; thus, the number of animals drops from _tN_, where _t_ is the number of time points, to just _N_.
 
@@ -52,7 +52,7 @@ When we use high power light to image animals, particularly over long time perio
 
 Obviously, this is a clear place where the aims of good science and the principles of the 3Rs align perfectly. Intense light exposure can cause short-term pain and distress, particularly in a restrained animal, and negative impacts on our data.
 
-Similarly, we must be very careful with our use of anaesthetics and analgesics, which we often use to minimise distress, suffering and pain during experimentation. These drugs may minimise suffering during the experiment but some anaesthetics have been shown to be distressing when introduced to, for example, aquarium water [5]. Using these drugs may also introduce a confounding effect on the data being taken, for example - how do anaesthetics affect neuronal signally?. Here we find an area where joint research needs to be carried out to improve experimental Refinement but also ensure we understand the confounding effects of these drugs.
+Similarly, we must be very careful with our use of anaesthetics and analgesics, which we often use to minimise distress, suffering and pain during experimentation. These drugs may minimise suffering during the experiment but some anaesthetics have been shown to be distressing when introduced to, for example, aquarium water <a href="#ROMetal2013">[5]</a>. Using these drugs may also introduce a confounding effect on the data being taken, for example - how do anaesthetics affect neuronal signally?. Here we find an area where joint research needs to be carried out to improve experimental Refinement but also ensure we understand the confounding effects of these drugs.
 
 ## Replacement
 
@@ -70,8 +70,10 @@ As mentioned at the beginning of this article, this is not an article on the eth
 
 ### References
 
-  1. Understanding Animal Research (<a href="http://www.understandinganimalresearch.org.uk/" target="_blank" rel="noopener">http://www.understandinganimalresearch.org.uk/</a>).
-  2. NC3RS (<a href="https://nc3rs.org.uk/" target="_blank" rel="noopener">https://nc3rs.org.uk/</a>).
-  3. Russell, W.M.S., Burch, R.L. and Hume, C.W., 1959. The principles of humane experimental technique. (Sadly, I have been unable to find an open access copy of this text.)
-  4. Percie du Sert N, Bamsey I, Bate ST, Berdoy M, Clark RA, Cuthill I, et al. (2017) The Experimental Design Assistant. PLoS Biol15(9): e2003779. <a href="https://dx.doi.org/10.1371/journal.pbio.2003779" target="_blank" rel="noopener">https://dx.doi.org/10.1371/journal.pbio.2003779</a>
-  5. Readman GD, Owen SF, Murrell JC, Knowles TG (2013) Do Fish Perceive Anaesthetics as Aversive? PLoS ONE8(9): e73773. <a href="https://dx.doi.org/10.1371/journal.pone.0073773" target="_blank" rel="noopener">https://dx.doi.org/10.1371/journal.pone.0073773</a>
+<ol>
+  <li id="understanding">Understanding Animal Research (<a href="http://www.understandinganimalresearch.org.uk/" target="_blank">http://www.understandinganimalresearch.org.uk/</a>).</li>
+  <li id="nc3rs">NC3RS (<a href="https://nc3rs.org.uk/" target="_blank">https://nc3rs.org.uk/</a>).</li>
+  <li id="RBH1959">W. M. S. Russell, R. L. Burch and C. W. Hume (1959) <cite>The principles of humane experimental technique</cite>. (Sadly, I have been unable to find an open access copy of this text.)</li>
+  <li id="PdSBBetal2017">N. Percie du Sert, I. Bamsey, S. T. Bate, M. Berdoy, R. A. Clark, I. Cuthill, D. Fry, N. A. Karp, M. Macleod, L. Moon, S. Clare Stanford and B. Lings (2017) The Experimental Design Assistant. <cite>PLoS Biol</cite> 15(9): e2003779. <a href="https://dx.doi.org/10.1371/journal.pbio.2003779" target="_blank">https://dx.doi.org/10.1371/journal.pbio.2003779</a></li>
+  <li id="ROMetal2013">G. D. Readman, S. F. Owen, J. C. Murrell and T. G. Knowles (2013) Do Fish Perceive Anaesthetics as Aversive? <cite>PLoS ONE</cite> 8(9): e73773. <a href="https://dx.doi.org/10.1371/journal.pone.0073773" target="_blank">https://dx.doi.org/10.1371/journal.pone.0073773</a></li>
+</ol>
