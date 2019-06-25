@@ -3,7 +3,7 @@
 
 title: "Imaging the Developing Eye"
 summary: ""
-authors: ["chas"]
+authors: []
 tags: ["current","microscopy","vision"]
 categories: []
 date: 2019-06-25T15:50:01+01:00
