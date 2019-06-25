@@ -22,7 +22,7 @@
 [[main]]
   parent = "blog"
   name = "Microscopy Timeline"
-  url = ""
+  url = "timeline"
   weight = 20
 
 [[main]]
