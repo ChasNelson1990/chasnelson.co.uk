@@ -1,7 +1,7 @@
 ---
 title: "Let There be Light... but Not Too Much"
 subtitle: "Phototoxicity in Microscopy"
-summary: ""
+summary: "An essential aspect to microscopy is light. Early microscopes used ambient light or used mirrors to reflect light, either from the sun or a candle, onto the sample of interest. With the inventions [1] of the electric light bulb additional, artificial light sources could be used and the light from lamps could be focussed onto samples with much greater control."
 authors: ["chas"]
 tags: ["microscopes","photoxicity"]
 categories: ["academia","my research","research"]

@@ -12,11 +12,12 @@ slug: "imaging-the-beating-heart"
 ---
 2018 has been a busy year so far (and I expect it will stay that way) but I’ve finally made time to write another blog post (and also to move my blog into my personal website). Given that so far this year I’ve spoken about my current research - imaging the beating zebrafish heart - to audiences of academics, the public & students I thought it was about time to do a blog post summarising said research. Hopefully this short post will provide you with an idea of what we’re trying to achieve, why and how we’re going about it (although I've kept off too much detail for now).
 
+<!--more-->
+
 ## The Challenge of a Beating Heart
 
 Here at the University of Glasgow I am working with <a href="https://www.gla.ac.uk/schools/physics/staff/jonathantaylor/" target="_blank" rel="noopener noreferrer">Dr Jonathan Taylor</a> on techniques for imaging the living, beating heart in zebrafish. This work is part of a <a href="https://www.bhf.org.uk/research-projects/development-and-optimisation-of-synchronised-3d-invivo-imaging-of-the-embryonic-and-juvenile-zebrafish-heart" target="_blank" rel="noopener noreferrer">British Heart Foundation</a> funded collaboration between us and a team of biologists at the University of Edinburgh. Our collaborators are interested in quantifying how the heart responds to injury, which in turn can be used to develop drugs that improve the natural injury response. Eventually, the fundamental research being carried out in the zebrafish can be translated to other model organisms and may, after much validation, be trialled in humans. At a conference I attended earlier in the year, one speaker gave the (uncited) statistic that 22 out of 24 drugs developed in the zebrafish have been successfully translated to humans despite the differences between a fish heart and a human heart.
 
-<!--more-->
 
 So that’s why our collaborators are interested in imaging the heart, but what are the challenges? Well, the primary challenge is that the living, beating heart is doing just that – beating. Generally, 3D fluorescence microscope images are built up by collecting several 2D images at different depths in the sample. The constant motion of the heart means that, in order to capture 3D fluorescence images of the heart, one must either be able to capture an entire 3D image very quickly, quicker than most fluorescence microscopes can achieve, or one could slow down, stop or pace the heart so that each 2D fluorescence plane can be captured at the exact same ‘phase’ or point in the heart beat cycle.
 
