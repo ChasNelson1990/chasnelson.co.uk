@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Using Graph Theory to Explore Functional Networks of Neurons"
+title: "Graph Theory of Networks of Neurons"
 summary: ""
 authors: []
-tags: ["current","analysis","neuroscience"]
+tags: ["current","microscopy","analysis"]
 categories: []
-date: 2019-06-25T15:50:20+01:00
+date: 2019-06-21T13:29:26+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Graph of functionally connected neurons extracted from MEA recordings."
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -42,4 +42,4 @@ url_poster: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As an EPSRC Doctoral Prize Research Fellow (University of Glasgow) I am interested in using graph theory, the mathematical basis of network science, to explore how networks of neurons in the retina evolve and reorganise throughout zebrafish development.
+As an EPSRC Doctoral Prize Research Fellow (University of Glasgow), I am investigated the use of graph theory, the mathematical background to network science, to understand how networks of neurons change organisation throughout development. In particular, I am developing analysis pipelines for the quantitative exploration of retinal development as measured by multi-electrode array (MEA) recordings and calcium imaging.
