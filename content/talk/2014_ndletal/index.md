@@ -14,7 +14,7 @@ date: 2014-07-10T12:30:00+01:00
 date_end: 2014-07-10T14:00:00+01:00
 all_day: false
 
-authors: ["chas", "Martin Dixon", "Pierre Philippe Laissue", "Boguslaw Obara"]
+authors: ["chas", "Martin Dixon", "Pierre Philippe Laissue", "[Boguslaw Obara](https://community.dur.ac.uk/boguslaw.obara/)"]
 tags: []
 
 # Is this a featured talk? (true/false)
