@@ -73,7 +73,13 @@
   weight = 100
 
 [[main]]
+parent = "contact"
+  name = "Contact Form"
+  url = "#contact"
+  weight = 10
+
+[[main]]
   parent = "contact"
   name = "CV"
   url = "files/cjn-cv.pdf"
-  weight = 10
+  weight = 20
