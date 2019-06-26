@@ -14,7 +14,7 @@ date: 2018-06-28T14:45:00+01:00
 date_end: 2018-06-28T15:00:00+01:00
 all_day: false
 
-authors: ["chas", "Vytautas Zickus", "Charlotte Buckley", "Finn Bruton", "Aryan Baghbadrani", "John J. Mullins", "Martin A. Denvir", "Jonathan Taylor"]
+authors: ["chas", "[Vytautas Zickus](https://www.research.ed.ac.uk/portal/en/persons/vytautas-zickus(f9d48799-bd00-4115-a299-f2129639867b).html)", "[Charlotte Buckley](https://pureportal.strath.ac.uk/en/persons/charlotte-buckley)", "[Finnius A. Bruton](https://www.ed.ac.uk/profile/finnius-bruton)", "[Aryan K. Baghbadrani](https://www.ed.ac.uk/profile/aryan-baghbadrani)", "[John J. Mullins](https://www.research.ed.ac.uk/portal/en/persons/john-mullins(adadba07-5194-4199-94fa-4ce1307d782d).html)", "[Martin A. Denvir](https://www.ed.ac.uk/profile/martin-denvir)", "[Jonathan M. Taylor](https://www.gla.ac.uk/schools/physics/staff/jonathantaylor/)"]
 tags: []
 
 # Is this a featured talk? (true/false)
