@@ -36,6 +36,6 @@ subtitle = "Publications"
   view = 4
 +++
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /alert %}} -->
