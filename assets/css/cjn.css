@@ -1,0 +1,43 @@
+.dropdown-menu.show {
+    display: block;
+    border-color: rgba(229,229,229,0.4)
+}
+
+body.dark .powered-by {
+    color: rgb(229,229,229)
+}
+
+.card-simple {
+    background: rgb(229, 229, 229);
+}
+
+.dark .card-simple {
+    background: rgb(26, 26, 26);
+}
+
+body {
+    background: rgb(229, 229, 229);
+}
+
+body.dark {
+    background: rgb(26, 26, 26);
+}
+
+.pagination li > a, .pagination li > a:hover {
+    background: rgb(229, 229, 229);
+    color: rgb(26, 26, 26);
+    border-color: rgb(26, 26, 26);
+}
+
+.dark .pagination li > a, .dark .pagination li > a:hover{
+    background: rgb(26, 26, 26);
+    color: rgb(229, 229, 229);
+}
+
+p a, li a{
+    text-decoration: underline;
+}
+
+li.nav-item a{
+    text-decoration: none;
+}
