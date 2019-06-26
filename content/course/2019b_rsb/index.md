@@ -3,7 +3,7 @@
 
 title: "Programming for Biologists"
 event: "Royal Society of Biology"
-event_url: "https://www.rsb.org.uk/events?layout=list&type=11"
+event_url: "https://www.rsb.org.uk/events?event=programmingforbiologists"
 location: "London UK"
 summary: "There's no escaping it - computing is becoming an essential part of the scientist toolkit. From coping with the data deluge by automated analysis or simulating a mathematical model of your system, coding is an essential skill for the modern biologist. This hands-on, one-day course will introduce you to Python, a popular and powerful computer language. You will learn the basics of working with Python through the increasingly popular Jupyter Notebook system. But Don't Panic - this course is designed for those with no existing coding experience."
 
@@ -96,4 +96,4 @@ Between them, Chas and Mikolaj will be able to fully support your learning throu
 
 ## How to book?
 
-Please visit the [RSB training pages](https://www.rsb.org.uk/events?layout=list&type=11) to book a spot on this course.
+Please visit the [RSB training pages](https://www.rsb.org.uk/events?event=programmingforbiologists) to book a spot on this course.
