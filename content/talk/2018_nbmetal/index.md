@@ -14,7 +14,7 @@ date: 2018-01-31T14:10:00+01:00
 date_end: 2018-01-31T14:30:00+01:00
 all_day: false
 
-authors: ["Carl J. Nelson", "Charlotte Buckley", "John J. Mullins", "Martin A. Denvir", "Jonathan Taylor"]
+authors: ["chas", "Charlotte Buckley", "John J. Mullins", "Martin A. Denvir", "Jonathan Taylor"]
 tags: []
 category: []
 

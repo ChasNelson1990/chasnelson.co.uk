@@ -14,7 +14,7 @@ date: 2018-06-28T14:45:00+01:00
 date_end: 2018-06-28T15:00:00+01:00
 all_day: false
 
-authors: ["Carl J. Nelson", "Vytautas Zickus", "Charlotte Buckley", "Finn Bruton", "Aryan Baghbadrani", "John J. Mullins", "Martin A. Denvir", "Jonathan Taylor"]
+authors: ["chas", "Vytautas Zickus", "Charlotte Buckley", "Finn Bruton", "Aryan Baghbadrani", "John J. Mullins", "Martin A. Denvir", "Jonathan Taylor"]
 tags: []
 
 # Is this a featured talk? (true/false)
