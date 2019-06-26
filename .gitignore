@@ -2,4 +2,4 @@
 **/.well-known/
 .htaccess
 **/public/
-**/_gen/
+**/_gen/**
