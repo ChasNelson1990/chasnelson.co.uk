@@ -13,7 +13,7 @@ date: 2019-04-05T14:45:00+01:00
 publishDate: 2019-01-05T14:45:00+01:00
 all_day: true
 
-authors: ["chas", "Mikolaj Kundegorski"]
+authors: ["chas", "[Miks Kundegorski](https://mixmixmix.github.io/)"]
 tags: []
 
 # Is this a featured talk? (true/false)
