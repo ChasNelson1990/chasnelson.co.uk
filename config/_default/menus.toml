@@ -39,7 +39,7 @@
 [[main]]
   parent = "research"
   name = "Publications"
-  url = "#featured-publications"
+  url = "#recent-publications"
   weight = 20
 
 [[main]]
