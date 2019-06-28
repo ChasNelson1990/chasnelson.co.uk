@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = ""
-subtitle = "The Little Eye Blog Posts"
+title = "The Little Eye"
+subtitle = "Recent Blog Posts"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -60,8 +60,5 @@ subtitle = "The Little Eye Blog Posts"
 
 [advanced]
  # Custom CSS.
- css_style = ""
-
- # CSS class.
- css_class = ""
+ css_style = "padding-bottom: 0px"
 +++
