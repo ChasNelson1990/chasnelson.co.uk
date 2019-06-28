@@ -43,12 +43,6 @@
   weight = 20
 
 [[main]]
-  name = "Research"
-  url = "research"
-  identifier = "research"
-  weight = 30
-
-[[main]]
   parent = "research"
   name = "Publications"
   url = "#featured"
