@@ -2,14 +2,14 @@
 name = "CJN"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = ""
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Raleway"
+body_font = "GenLight"
+nav_font = "Raleway"
+mono_font = "RursusCompactMonoMedium"
 
 # Font size
-font_size = "20"
-font_size_small = "16"
+font_size = "12"
+font_size_small = "12"

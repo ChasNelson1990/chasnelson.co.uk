@@ -41,3 +41,24 @@ p a, li a{
 li.nav-item a{
     text-decoration: none;
 }
+
+.navbar-brand {
+    font-size: 2rem !important;
+    font-weight: 400 !important;
+}
+
+.article-metadata {
+    font-size: 0.8rem;
+}
+
+.universal-wrapper {
+    width: 100%;
+    max-width: 1140px;
+}
+
+/* for blog cards */
+.universal-wrapper .card-simple {
+    width: 80%;
+    max-width: 1000px;
+    margin: 20px auto 0px;
+}
