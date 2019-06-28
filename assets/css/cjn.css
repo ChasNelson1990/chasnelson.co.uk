@@ -34,12 +34,8 @@ body.dark {
     color: rgb(229, 229, 229);
 }
 
-p a, li a{
+p>a, li:not(.nav-item)>a{
     text-decoration: underline;
-}
-
-li.nav-item a{
-    text-decoration: none;
 }
 
 .navbar-brand {
@@ -61,4 +57,44 @@ li.nav-item a{
     width: 80%;
     max-width: 1000px;
     margin: 20px auto 0px;
+}
+
+.home-section {
+    padding: 50px 0 50px 0;
+}
+
+.home-section {
+    background: #ffffff !important;
+}
+
+.dark .home-section {
+    background: #1A1A1A !important;
+}
+
+.section-heading {
+    text-align: right;
+}
+
+.network-icon a {
+    color: #008383;
+}
+
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+	color: #e5e5e5;
+}
+
+.portrait-title h3, .portrait-title a, .author-card .card-subtitle {
+	color: #1A1A1A;
+}
+
+.dark .portrait-title h3, .dark .portrait-title a, .dark .author-card .card-subtitle {
+	color: #e5e5e5;
+}
+
+.dark .form-control {
+	background-color: #1A1A1A;
+}
+
+p>a, li:not(.nav-item)>a, h3.article-title>a:hover {
+	color: #008383 !important;
 }

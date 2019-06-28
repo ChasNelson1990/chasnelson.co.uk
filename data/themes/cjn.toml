@@ -8,7 +8,7 @@ light = false
 primary = "#008383"
 
 # Links
-link = "#767676"
+link = "#878787"
 link_hover = "rgb(193, 193, 193)"
 
 # Menu
