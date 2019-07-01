@@ -34,7 +34,7 @@ body.dark {
     color: rgb(229, 229, 229);
 }
 
-p>a, li:not(.nav-item)>a{
+p>a, li:not(.nav-item):not(.dropdown-item)>a{
     text-decoration: underline;
 }
 
