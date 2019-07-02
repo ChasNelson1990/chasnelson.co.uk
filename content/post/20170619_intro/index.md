@@ -43,6 +43,6 @@ I've taken the name _The Little Eye_ from the earlier name Galileo Galilei, a p
 ### References
 
 <ol>
-  <li id="G1998">Gould, Stephen Jay. "The sharp-eyed lynx, outfoxed by nature." <cite>Natural History</cite> 6 (1998): 98. <em>Note:</em> I have not been able to find a free copy of this essay (usually in two parts) but a summary can be found <a href="http://sjgouldessays.com/content/nh_essay_summaries_content/09%20Lying%20Stones%20of%20Marrakech.pdf">here</a> and it seems to have been published in a collection <a href="#G2001">[2]</a> that seems easy to find in libraries.</li>
+  <li id="G1998">Gould, Stephen Jay. "The sharp-eyed lynx, outfoxed by nature." <cite>Natural History</cite> 6 (1998): 98. <em>Note:</em> I have not been able to find a free copy of this essay (usually in two parts) but a summary can be found <a href="https://sjgouldessays.com/content/nh_essay_summaries_content/09%20Lying%20Stones%20of%20Marrakech.pdf">here</a> and it seems to have been published in a collection <a href="#G2001">[2]</a> that seems easy to find in libraries.</li>
   <li id="G2001">Gould, Stephen Jay. <cite>The lying stones of Marrakech: Penultimate reflections in natural history</cite>. Random House, 2001.</li>
 </ol>

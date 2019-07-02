@@ -60,5 +60,5 @@ The council agreed to have regular meetings of the society and an Anniversary Me
 <ol>
   <li id="T1989">Turner, G.L.E., 1989. God Bless the Microscope. <cite>A History of the Royal Microscopical Society over 150 Years</cite>. (This book was commissioned to record the history of the society for it's 150th anniversary and is my primary resource for this post.)</li>
   <li id="RMS"><a href="https://www.rms.org.uk">Royal Microscopical Society</a></li>
-  <li id="JoM"><a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2818">Journal of Microscopy</a></li>
+  <li id="JoM"><a href="https://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2818">Journal of Microscopy</a></li>
 </ol>

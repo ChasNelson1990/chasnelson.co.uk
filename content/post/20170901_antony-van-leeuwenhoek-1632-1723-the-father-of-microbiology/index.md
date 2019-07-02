@@ -18,7 +18,7 @@ Antony van Leeuwenhoek is one of the most well known figures in the history of m
 
 Van Leeuwenhoek was born into the burgeoning and learned Dutch Republic. Delft, his home city, was heavily involved in foreign trade through the Vereenigde Oost-Indische Compagnie (the Dutch East Indies Company) and it was through trade as a draper that van Leeuwenhoek primarily earned his living. He supplemented his trade with various roles in public office throughout his life, including as the official wine-gauger of Delft.
 
-To my knowledge there isn't much third party documentation of van Leeuwenhoek, his parents or either of his marriages and one surviving child, Maria. However, <a href="http://www.lensonleeuwenhoek.net/" target="_blank">Lens on Leeuwenhoek</a> includes a timeline of over 600 documented events relating to van Leeuwenhoek's life, his family and Delft during his lifetime.
+To my knowledge there isn't much third party documentation of van Leeuwenhoek, his parents or either of his marriages and one surviving child, Maria. However, <a href="https://www.lensonleeuwenhoek.net/" target="_blank">Lens on Leeuwenhoek</a> includes a timeline of over 600 documented events relating to van Leeuwenhoek's life, his family and Delft during his lifetime.
 
 ## The Letters
 
@@ -50,4 +50,4 @@ Anthony van Leeuwenhoek was probably the discover of hundreds and hundreds of ne
 
 ### Bibliography
 
-My thanks go to Professor Douglas Anderson and colleagues for all their work on <a href="http://lensonleeuwenhoek.net/" target="_blank">Lens on Leeuwenhoek</a>, a database of collected documents, including letters and plates, events and other resources aimed at collating information about van Leeuwenhoek and his life into a taxonomical database. Much of the above information comes from reading these pages.
+My thanks go to Professor Douglas Anderson and colleagues for all their work on <a href="https://lensonleeuwenhoek.net/" target="_blank">Lens on Leeuwenhoek</a>, a database of collected documents, including letters and plates, events and other resources aimed at collating information about van Leeuwenhoek and his life into a taxonomical database. Much of the above information comes from reading these pages.

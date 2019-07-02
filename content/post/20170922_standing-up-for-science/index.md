@@ -50,18 +50,18 @@ I think a lot of the rest comes with experience, talking to those who have exper
 ### References
 
 <ol>
-  <li id="sas"><a href="http://senseaboutscience.org" target="_blank">http://senseaboutscience.org</a></li>
-  <li id="workshop"><a href="http://senseaboutscience.org/activities/media-workshop/" target="_blank">http://senseaboutscience.org/activities/media-workshop/</a></li>
-  <li id="voys"><a href="http://senseaboutscience.org/what-we-are-doing/voys/" target="_blank">http://senseaboutscience.org/what-we-are-doing/voys/</a></li>
-  <li id="halpin"><a href="http://www.lifesci.dundee.ac.uk/people/claire-halpin" target="_blank">http://www.lifesci.dundee.ac.uk/people/claire-halpin</a></li>
-  <li id="vellejo-marin"><a href="http://www.plant-evolution.org/wp/" target="_blank">http://www.plant-evolution.org/wp/</a></li>
-  <li id="sala"><a href="http://www.ed.ac.uk/profile/sergio-della-sala" target="_blank">http://www.ed.ac.uk/profile/sergio-della-sala</a></li>
-  <li id="feinmann"><a href="http://www.janefeinmann.com/" target="_blank">http://www.janefeinmann.com/</a></li>
-  <li id="grossman"><a href="http://www.pelicancrossing.net/bio.htm" target="_blank">http://www.pelicancrossing.net/bio.htm</a></li>
+  <li id="sas"><a href="https://senseaboutscience.org" target="_blank">https://senseaboutscience.org</a></li>
+  <li id="workshop"><a href="https://senseaboutscience.org/activities/media-workshop/" target="_blank">https://senseaboutscience.org/activities/media-workshop/</a></li>
+  <li id="voys"><a href="https://senseaboutscience.org/what-we-are-doing/voys/" target="_blank">https://senseaboutscience.org/what-we-are-doing/voys/</a></li>
+  <li id="halpin"><a href="https://www.lifesci.dundee.ac.uk/people/claire-halpin" target="_blank">https://www.lifesci.dundee.ac.uk/people/claire-halpin</a></li>
+  <li id="vellejo-marin"><a href="https://www.plant-evolution.org/wp/" target="_blank">https://www.plant-evolution.org/wp/</a></li>
+  <li id="sala"><a href="https://www.ed.ac.uk/profile/sergio-della-sala" target="_blank">https://www.ed.ac.uk/profile/sergio-della-sala</a></li>
+  <li id="feinmann"><a href="https://www.janefeinmann.com/" target="_blank">https://www.janefeinmann.com/</a></li>
+  <li id="grossman"><a href="https://www.pelicancrossing.net/bio.htm" target="_blank">https://www.pelicancrossing.net/bio.htm</a></li>
   <li id="keane"><a href="https://twitter.com/kkeaneBBC" target="_blank">https://twitter.com/kkeaneBBC</a></li>
-  <li id="goulao"><a href="https://web.archive.org/web/20150929033612/http://www.abdn.ac.uk:80/hsru/people/beatriz.goulao/" target="_blank">https://www.abdn.ac.uk/hsru/people/beatriz.goulao/</a></li>
-  <li id="ask"><a href="http://www.askforevidence.org/index" target="_blank">http://www.askforevidence.org/index</a></li>
-  <li id="middleton"><a href="http://www.ed.ac.uk/communications-marketing/press-and-pr" target="_blank">http://www.ed.ac.uk/communications-marketing/press-and-pr</a></li>
+  <li id="goulao"><a href="https://web.archive.org/web/20150929033612/https://www.abdn.ac.uk:80/hsru/people/beatriz.goulao/" target="_blank">https://www.abdn.ac.uk/hsru/people/beatriz.goulao/</a></li>
+  <li id="ask"><a href="https://www.askforevidence.org/index" target="_blank">https://www.askforevidence.org/index</a></li>
+  <li id="middleton"><a href="https://www.ed.ac.uk/communications-marketing/press-and-pr" target="_blank">https://www.ed.ac.uk/communications-marketing/press-and-pr</a></li>
   <li id="murphy"><a href="https://www.beexperimental.co.uk/" target="_blank">https://www.beexperimental.co.uk/</a></li>
   <li id="bsa"><a href="https://www.britishscienceassociation.org/media-fellows" target="_blank">https://www.britishscienceassociation.org/media-fellows</a></li>
 </ol>

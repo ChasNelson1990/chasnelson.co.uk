@@ -71,7 +71,7 @@ As mentioned at the beginning of this article, this is not an article on the eth
 ### References
 
 <ol>
-  <li id="understanding">Understanding Animal Research (<a href="http://www.understandinganimalresearch.org.uk/" target="_blank">http://www.understandinganimalresearch.org.uk/</a>).</li>
+  <li id="understanding">Understanding Animal Research (<a href="https://www.understandinganimalresearch.org.uk/" target="_blank">https://www.understandinganimalresearch.org.uk/</a>).</li>
   <li id="nc3rs">NC3RS (<a href="https://nc3rs.org.uk/" target="_blank">https://nc3rs.org.uk/</a>).</li>
   <li id="RBH1959">W. M. S. Russell, R. L. Burch and C. W. Hume (1959) <cite>The principles of humane experimental technique</cite>. (Sadly, I have been unable to find an open access copy of this text.)</li>
   <li id="PdSBBetal2017">N. Percie du Sert, I. Bamsey, S. T. Bate, M. Berdoy, R. A. Clark, I. Cuthill, D. Fry, N. A. Karp, M. Macleod, L. Moon, S. Clare Stanford and B. Lings (2017) The Experimental Design Assistant. <cite>PLoS Biol</cite> 15(9): e2003779. <a href="https://dx.doi.org/10.1371/journal.pbio.2003779" target="_blank">https://dx.doi.org/10.1371/journal.pbio.2003779</a></li>

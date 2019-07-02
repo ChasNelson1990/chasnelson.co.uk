@@ -53,7 +53,7 @@ Alternative approaches to the problem of capturing images at specific points in 
 <ol>
   <li id="bulb"><a href="https://en.wikipedia.org/wiki/Incandescent_light_bulb#History" target="_blank">https://en.wikipedia.org/wiki/Incandescent_light_bulb#History</a></li>
   <li id="qy"><a href="https://en.wikipedia.org/wiki/Quantum_yield" target="_blank">https://en.wikipedia.org/wiki/Quantum_yield</a></li>
-  <li id="uv"><a href="http://www.cancerresearchuk.org/about-cancer/causes-of-cancer/sun-uv-and-cancer/how-the-sun-and-uv-cause-cancer" target="_blank">http://www.cancerresearchuk.org/about-cancer/causes-of-cancer/sun-uv-and-cancer/how-the-sun-and-uv-cause-cancer</a></li>
+  <li id="uv"><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/sun-uv-and-cancer/how-the-sun-and-uv-cause-cancer" target="_blank">https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/sun-uv-and-cancer/how-the-sun-and-uv-cause-cancer</a></li>
   <li id="papers">Unfortunately neither of these are fully Open Access, sorry.
     <ol>
       <li>Laissue, P. Philippe, Rana A. Alghamdi, Pavel Tomancak, Emmanuel G. Reynaud, and Hari Shroff, 2017. Assessing phototoxicity in live fluorescence imaging. _Nature Methods_ Vol. 14, no. 7, pp. 657-661. <a href="https://dx.doi.org/10.1038/nmeth.4344" target="_blank">https://dx.doi.org/10.1038/nmeth.4344</a> (or available here <a href="https://publications.mpi-cbg.de/Laissue_2017_6887.pdf" target="_blank">https://publications.mpi-cbg.de/Laissue_2017_6887.pdf</a>)</li>
