@@ -8,4 +8,9 @@ abstract: "Enhancement and detection of 3D vessel-like structures has long been 
 featured: false
 publication: "*British Machine Vision Conference 2018*"
 tags: []
+url_pdf: "https://bmvc2018.org/contents/papers/0314.pdf"
+url_preprint: "https://arxiv.org/abs/1802.05097"
+url_code: "https://github.com/CigdemSazak/bowler-hat-3d"
+url_poster:
+url_dataset:
 ---

@@ -8,4 +8,9 @@ abstract: "Three-dimensional fluorescence time-lapse imaging of structural, cell
 featured: false
 publication: "*Submitted* (available in bioRxiv)"
 doi: "10.1101/526830"
+url_pdf:
+url_preprint: "https://www.biorxiv.org/content/10.1101/526830v1"
+url_code:
+url_poster:
+url_dataset:
 ---

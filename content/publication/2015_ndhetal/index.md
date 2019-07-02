@@ -9,4 +9,9 @@ featured: true
 publication: "*Functional Plant Biology*"
 tags: []
 doi: "10.1071/FP14047"
+url_pdf: "https://dro.dur.ac.uk/24373/1/24373.pdf"
+url_preprint:
+url_code: "https://github.com/BoguslawObara/blob_colocalisation3d"
+url_poster:
+url_dataset:
 ---

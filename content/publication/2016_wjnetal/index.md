@@ -9,4 +9,9 @@ featured: false
 publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence*"
 tags: []
 doi: "10.1109/TPAMI.2016.2613866"
+url_pdf: "https://dro.dur.ac.uk/19838/1/19838.pdf"
+url_preprint:
+url_code: "https://github.com/cwkx/extract-3d-curve"
+url_poster:
+url_dataset:
 ---

@@ -9,4 +9,9 @@ featured: false
 publication: "*2015 9th International Symposium on Image and Signal Processing and Analysis (ISPA)*"
 tags: []
 doi: "10.1109/ISPA.2015.7306053"
+url_pdf: "https://dro.dur.ac.uk/16627/1/16627.pdf"
+url_preprint:
+url_code:
+url_poster:
+url_dataset:
 ---

@@ -8,4 +8,9 @@ abstract: "Accurate and reliable nuclei identification is an essential part of q
 featured: true
 publication: "*International Symposium on Mathematical Morphology and Its Applications to Signal and Image Processing. Lecture Notes in Computer Science*"
 doi: "10.1007/978-3-030-20867-7_41"
+url_pdf:
+url_preprint: "https://arxiv.org/abs/1904.05217"
+url_code: "https://github.com/ChasNelson1990/Ellipse-Detection-by-Hilbert-Edge-Detection-and-Ranging"
+url_poster:
+url_dataset:
 ---

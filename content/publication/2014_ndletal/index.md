@@ -8,4 +8,9 @@ abstract: "This article outlines a procedure for speeding up segmentation of ima
 featured: false
 publication: "*Medical Image Understanding and Analysis*"
 tags: []
+url_pdf: "https://www.city.ac.uk/__data/assets/pdf_file/0016/225061/Paper53.pdf"
+url_preprint:
+url_code:
+url_poster: "files/2014NDLetal.pdf"
+url_dataset:
 ---

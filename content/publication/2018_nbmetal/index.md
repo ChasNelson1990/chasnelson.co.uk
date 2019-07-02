@@ -9,4 +9,9 @@ featured: true
 publication: "*Proceedings of SPIE*"
 tags: []
 doi: "10.1117/12.2290191"
+url_pdf: "https://eprints.gla.ac.uk/165303/1/165303.pdf"
+url_preprint: "https://arxiv.org/abs/1802.05663"
+url_code:
+url_poster:
+url_dataset:
 ---

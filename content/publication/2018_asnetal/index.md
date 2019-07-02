@@ -9,4 +9,9 @@ featured: false
 publication: "*2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*"
 tags: []
 doi: "10.1109/BIBM.2018.8621329"
+url_pdf: "https://eprints.gla.ac.uk/177078/1/177078.pdf"
+url_preprint: "https://arxiv.org/abs/1809.08678"
+url_code: "https://github.com/ShuaaAlharbi/MTHT"
+url_poster:
+url_dataset:
 ---

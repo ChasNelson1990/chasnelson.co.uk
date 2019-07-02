@@ -9,4 +9,9 @@ featured: false
 publication: "*Journal of Real-Time Image Processing*"
 tags: []
 doi: "10.1007/s11554-017-0740-1"
+url_pdf: "https://dro.dur.ac.uk/23575/2/23575.pdf"
+url_preprint:
+url_code: "https://github.com/cwkx/IGAC"
+url_poster:
+url_dataset:
 ---

@@ -8,4 +8,9 @@ abstract: "Enhancement, followed by segmentation, quantification and modelling o
 featured: false
 publication: "*Pattern Recognition*"
 doi: "10.1016/j.patcog.2018.10.011"
+url_pdf: "https://eprints.gla.ac.uk/171475/1/171475.pdf"
+url_preprint: "https://arxiv.org/abs/1709.05495"
+url_code: "https://github.com/CigdemSazak/bowler-hat-2d"
+url_poster:
+url_dataset:
 ---
