@@ -27,12 +27,12 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "http://dx.doi.org/10.5525/gla.researchdata.729"
+url_code: "https://dx.doi.org/10.5525/gla.researchdata.729"
 url_pdf: ""
 url_slides: ""
 url_video: ""
 url_preprint: "https://www.biorxiv.org/content/10.1101/526830v1.abstract"
-url_dataset: "http://dx.doi.org/10.5525/gla.researchdata.729"
+url_dataset: "https://dx.doi.org/10.5525/gla.researchdata.729"
 url_poster: ""
 
 # Slides (optional).
@@ -42,7 +42,7 @@ url_poster: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As Research Assistant to [Dr Jonathan Taylor](http://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/staff%20and%20students/dr%20jonathan%20taylor/) (Glasgow University) I worked on real-time image processing for the synchronisation of 3D images of the _in vivo_, beating zebrafish heart. Through this project we have developed a technique we call adaptive prospective optical gating.
+As Research Assistant to [Dr Jonathan Taylor](https://www.gla.ac.uk/schools/physics/research/groups/imagingconcepts/staff%20and%20students/dr%20jonathan%20taylor/) (Glasgow University) I worked on real-time image processing for the synchronisation of 3D images of the _in vivo_, beating zebrafish heart. Through this project we have developed a technique we call adaptive prospective optical gating.
 
 
 The constant motion of the heart is a major obstacle to live imaging and, in the past, fish have been fixed or their heartbeats have been pharmaceutically slowed down. Our research aims to develop the hardware and software needed to create truly synchronised 3D images of whole heartbeats over long time periods so that the long term effects of drugs or injury on heart and vasculature can be elucidated.
