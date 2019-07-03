@@ -16,7 +16,7 @@ This thesis represents a significant contribution to the field of image processi
 featured: false
 publication: "Durham University"
 tags: []
-url_pdf: "https://etheses.dur.ac.uk/12169/1/thesis.pdf"
+url_pdf: "http://etheses.dur.ac.uk/12169/1/thesis.pdf"
 url_preprint:
 url_code:
 url_poster:
