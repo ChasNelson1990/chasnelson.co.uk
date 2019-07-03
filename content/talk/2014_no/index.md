@@ -41,6 +41,8 @@ url_slides:
 url_code:
 url_pdf:
 url_video:
+url_poster: "https://doi.org/10.6084/m9.figshare.8490593"
+url_dataset:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

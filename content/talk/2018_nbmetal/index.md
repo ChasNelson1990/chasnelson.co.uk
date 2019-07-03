@@ -38,10 +38,12 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "https://doi.org/10.6084/m9.figshare.8491844.v1"
 url_code:
 url_pdf:
 url_video:
+url_poster:
+url_dataset:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
