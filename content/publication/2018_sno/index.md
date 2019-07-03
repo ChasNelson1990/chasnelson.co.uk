@@ -1,6 +1,6 @@
 ---
 title: "The Multiscale Bowler-Hat Transform for Vessel Enhancement in 3D Biomedical Images"
-date: 2018-01-01
+date: 2018-09-03
 publishDate: 2019-06-25T16:44:47.758980Z
 authors: ["[Çiğdem Sazak](https://github.com/CigdemSazak/)", "chas", "[Boguslaw Obara](https://community.dur.ac.uk/boguslaw.obara/)"]
 publication_types: ["1"]
