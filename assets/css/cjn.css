@@ -34,7 +34,7 @@ body.dark {
     color: rgb(229, 229, 229);
 }
 
-p>a, li:not(.nav-item):not(.dropdown-item)>a{
+p>a:not(.btn), li:not(.nav-item):not(.dropdown-item)>a{
     text-decoration: underline;
 }
 
@@ -95,6 +95,16 @@ p>a, li:not(.nav-item):not(.dropdown-item)>a{
 	background-color: #1A1A1A;
 }
 
-p>a, li:not(.nav-item)>a, h3.article-title>a:hover {
+p>a:not(.btn:hover), li:not(.nav-item)>a, h3.article-title>a:hover {
 	color: #008383 !important;
+}
+
+pre, code {
+	color: #444444;
+	background-color: #FFFFFF;
+}
+
+.dark pre, .dark code {
+	color: #CCCCCC;
+	background-color: #000000;
 }
