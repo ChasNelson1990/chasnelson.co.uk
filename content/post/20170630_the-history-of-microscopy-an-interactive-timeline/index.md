@@ -23,7 +23,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
 ---
 So this week I want to introduce a new project I'm starting: an interactive timeline of the history of microscopy. The idea behind this is to slowly build up an educational resource that documents key events and people in the history of microscopy. Eventually this timeline will go from the first compound microscopes, through electron and fluorescence microscopy and right up to modern techniques such as lightsheet and super-resolution.
 

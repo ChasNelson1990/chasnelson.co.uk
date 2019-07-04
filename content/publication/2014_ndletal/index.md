@@ -13,4 +13,5 @@ url_preprint:
 url_code:
 url_poster: "https://doi.org/10.6084/m9.figshare.8490041.v1"
 url_dataset:
+projects: ["nuclei-detection"]
 ---

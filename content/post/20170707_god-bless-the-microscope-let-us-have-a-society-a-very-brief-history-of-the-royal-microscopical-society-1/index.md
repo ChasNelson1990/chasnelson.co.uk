@@ -23,7 +23,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
 ---
 A quick note: the title of this post is perhaps a bit false - this post will actually only give a brief history of the founding of the Microscopical Society of London. The Microscopical Society of London was the original name of what is now known as the Royal Microscopical Society. I hope to do a number of posts about the society, which is a very important learned society founded to promote,
 

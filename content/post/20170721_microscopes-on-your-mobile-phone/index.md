@@ -17,13 +17,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 Many modern microscopes can be large, highly technical and expensive pieces of equipment. This is most evidenced when you consider that, when funding such equipment at UK universities and research institutes, many funding bodies stipulate a requirement for sharing across multiple research groups or institutes. However, as developers of new microscopy technology a focus on such fancy and costly microscopes should not be at the detriment of the continued research into miniaturisation, cheaper manufacturing and improved transportable microscopes.
 

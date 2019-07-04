@@ -21,4 +21,5 @@ url_preprint:
 url_code:
 url_poster:
 url_dataset:
+projects: ["colocalisation","nuclei-detection","vessel-enhancement"]
 ---

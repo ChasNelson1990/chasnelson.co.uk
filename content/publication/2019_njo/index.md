@@ -13,4 +13,5 @@ url_preprint: "https://arxiv.org/abs/1904.05217"
 url_code: "https://github.com/ChasNelson1990/Ellipse-Detection-by-Hilbert-Edge-Detection-and-Ranging"
 url_poster:
 url_dataset:
+projects: ["nuclei-detection"]
 ---

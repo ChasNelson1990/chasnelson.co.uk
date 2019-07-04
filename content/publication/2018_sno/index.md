@@ -13,4 +13,5 @@ url_preprint: "https://arxiv.org/abs/1802.05097"
 url_code: "https://github.com/CigdemSazak/bowler-hat-3d"
 url_poster:
 url_dataset:
+projects: ["vessel-enhancement"]
 ---

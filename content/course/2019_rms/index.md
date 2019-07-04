@@ -49,13 +49,6 @@ url_video:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 ## Introduction
 There's no escaping it - computing is becoming an essential part of the scientist toolkit. From coping with the data deluge by automated analysis or simulating a mathematical model of your system, coding is an essential skill for the modern biologist.

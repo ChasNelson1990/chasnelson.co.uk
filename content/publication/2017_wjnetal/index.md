@@ -14,4 +14,5 @@ url_preprint:
 url_code: "https://github.com/cwkx/IGAC"
 url_poster:
 url_dataset:
+projects: ["nuclei-detection"]
 ---

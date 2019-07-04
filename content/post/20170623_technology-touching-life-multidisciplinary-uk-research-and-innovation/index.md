@@ -14,8 +14,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-projects: []
 ---
 This Tuesday (the 20th June 2017) I attended a workshop on the new _Technology Touching Life_ scheme being run by three of the UK's research councils <a href="#ttl">[1]</a>. The workshops (this was the last of three) were run jointly by the Biotechnology and Biological Sciences Research Council (BBSRC), the Engineering and Physical Sciences Reseasrch Council (EPSRC) and the Medical Research Council (MRC) to foster multidisciplinary and interdisciplinary networks and better integrate such research into the often disciplinary nature of the research councils.
 

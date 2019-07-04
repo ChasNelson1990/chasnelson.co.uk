@@ -14,4 +14,5 @@ url_preprint:
 url_code: "https://github.com/BoguslawObara/blob_colocalisation3d"
 url_poster:
 url_dataset:
+projects: ["colocalisation"]
 ---
