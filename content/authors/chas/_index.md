@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: EPSRC Doctoral Prize Research Fellow
+role: LKAS Research Fellow in Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -46,9 +46,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Chas_Nelson_
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/chasnelson1990/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=lYGU2EoAAAAJ

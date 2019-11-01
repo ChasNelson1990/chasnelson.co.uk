@@ -1,17 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-draft: true
-
-title: "Programming for Biologists"
-event: "Royal Society of Biology"
-event_url: "https://www.rsb.org.uk/events?layout=list&type=11"
-location: "London UK"
-summary: "There's no escaping it - computing is becoming an essential part of the scientist toolkit. From coping with the data deluge by automated analysis or simulating a mathematical model of your system, coding is an essential skill for the modern biologist. This hands-on, one-day course will introduce you to Python, a popular and powerful computer language. You will learn the basics of working with Python through the increasingly popular Jupyter Notebook system. But Don't Panic - this course is designed for those with no existing coding experience."
+title: "Bioimage analysis with Python"
+event: "Image Analysis Focus Interest Group (Royal Microscopical Society)"
+event_url: "https://training.csx.cam.ac.uk/bioinformatics/event/3129158"
+location: "Cambridge, UK"
+summary: "The aim of this 5 days course is to develop motivated participants toward becoming independent BioImage Analysts in an imaging facility or research role. Participants will be taught theory and algorithms relating to bioimage analysis using Python as the primary coding language. Lectures will focus on image analysis theory and applications. Topics to be covered include: Image Analysis and image processing, Python and Jupyter notebooks, Visualisation, Fiji to Python, Segmentation, Omero and Python, Image Registration, Colocalisation, Time-series analysis, Tracking, Machine Learning, and Applied Machine Learning. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-05T14:45:00+01:00
+date: 2019-12-09T14:10:00+01:00
+date_end: 2019-12-13T14:30:00+01:00
 publishDate: 2019-01-05T14:45:00+01:00
 all_day: true
 
@@ -50,45 +49,50 @@ url_video:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-## Introduction
-There's no escaping it - computing is becoming an essential part of the scientist toolkit. From coping with the data deluge by automated analysis or simulating a mathematical model of your system, coding is an essential skill for the modern biologist.
 
-This hands-on, one-day course will introduce you to Python, a popular and powerful computer language. You will learn the basics of working with Python through the increasingly popular Jupyter Notebook system.
+The aim of this 5 days course is to develop motivated participants toward becoming independent BioImage Analysts in an imaging facility or research role. Participants will be taught theory and algorithms relating to bioimage analysis using Python as the primary coding language.
 
-But Don't Panic - this course is designed for those with no existing coding experience.
+Lectures will focus on image analysis theory and applications. Topics to be covered include: Image Analysis and image processing, Python and Jupyter notebooks, Visualisation, Fiji to Python, Segmentation, Omero and Python, Image Registration, Colocalisation, Time-series analysis, Tracking, Machine Learning, and Applied Machine Learning.
 
-## Who is this course for?
-PhD students and researchers at any career stage in biology and related areas of science and medicine.
+The bulk of the practical work will focus on Python and how to code algorithms and handle data using Python. Fiji will be used as a tool to facilitate image analysis. Omero will be described and used for some interactive coding challenges.
 
-Although no previous coding experience is required, attendees will be working on their own laptops and will be expected to install some programmes before the course. Any laptop or operating system is suitable.
+Research spotlight talks will demonstrate research of instructors/scientists using taught techniques in the wild.
 
-## What does this course cover?
+This event is organized in collaboration with the Image Analysis Focused Interest Group and is sponsored by the Royal Microscopical Society.
 
-### The Basics of Programming with Python and Jupyter Notebooks
+The training room is located on the first floor and there is currently no wheelchair or level access available to this level.
 
-In the first half of the course we'll take you from zero to hero. Introducing Python and Jupyter Notebooks from the very basics through to writing simple functions. This will involve short tutorial alternated with practical and relevant exercises - all done through live coding.
+Please note that if you are not eligible for a University of Cambridge Raven account you will need to book or register your interest by linking here.
 
-In this part of the course we will cover variables, data types lists, loops and conditionals. Don't worry it will all become clear because we'll also cover built-in and on-line help.
+## Objective
 
-### Plotting and Statistics in Python
+As a result of attending the course, participants should be able to develop pipelines of analysis which start with raw data and result in publication quality figures.
 
-In the afternoon, you'll learn some practical application of Python. By introducing important modules (NumPy, SciPy, Pandas and Seaborn) we will cover how to read in datasets and carry out simple plotting and statistics on this data.
+## Aims
 
-Finally, we'll talk about how to use other people's code, write your own code and make them readable for other programmers (and your future self!).
+The aim of this course is to:
 
-### A Note of Prerequisites
+* acquire knowledge of image analysis theory and algorithms
+* consolidate and extend python coding skills relevant to bioimage analysis
+* provide practical experience with, and guidance on, coding algorithm for bioimage analysis
+* develop participants' confidence as independent BioImage Analysts, able to understand algorithms and apply them
+* provide applied examples of the analysis from experienced analysts in the Research spotlight talks
 
-Attendees should be comfortable installing applications on their own laptops, details of which will be provided closer to the time. Any laptop or operating system is suitable.
+## Target audience
 
-Attendees will also be asked to read some background materials before attending the course to ensure that all attendees have common knowledge. This will be a small amount and will be explained with pointers to additional resources.
+* Cell Biologists, Biophysicists, BioImage Analysts with some experience of basic microscopy image analysis
+* This course may be of interest to physical scientists looking to develop their knowledge of Python coding in the context of bioimage analysis
+* This course is appropriate for researchers who are relatively proficient with computers but maybe not had the time or resources available to become programmers.
+* The course is open to Graduate students, Postdocs and Staff members from the University of Cambridge, Affiliated Institutions and other external Institutions or individuals
+* Please note that all participants attending this course will be charged a registration fee. Members of Industry to pay 575.00 GBP. All Members of the University of Cambridge, Affiliated Institutions and other academic participants from External Institutions and Charitable Organizations to pay 250.00 GBP. A booking will only be approved and confirmed once the fee has been paid in full.
+* Further details regarding eligibility criteria are available here
 
-## Who is the course trainer?
-Chas Nelson is a Research Fellow at the University of Glasgow working in quantitative microscopy. He has taught computer science topics to a wide variety of groups and comes prepared with an undergraduate degree in Biology (and Physics) and a PhD in Computer Science, specifically bioimage analysis. Chas uses Python and Jupyter Notebooks daily and has an interest in building courses that enable students to go on and continue learning after the course.
+## Prerequisites
 
-Chas will be supported by Mikolaj Kundergorski, a PhD student at the University of Glasgow using mathematics and computer vision to understand salmon behaviour. Mikolaj has experience in teaching programming at University level and as an IT consultant for the World Health Organisation.
-
-Between them, Chas and Mikolaj will be able to fully support your learning throughout the day and provide you with the tools to continue developing your skills after the course.
+* Basic awareness of Fiji/ImageJ. Some prior experience of scripting or modifying scripts would be useful (e.g. ImageJ macro scripts).
+* Basic familiarity with Python. We ask that all attendees complete a basic online python coding course before the course begins. Details of this will be sent to participants prior to the course.
+* In addition, we recommend either attending (See "Related courses" below), or working through the materials of An Introduction to Solving Biological Problems with Python before attending this course.
 
 ## How to book?
 
-Please visit the [RSB training pages](https://www.rsb.org.uk/events?layout=list&type=11) to book a spot on this course.
+Please visit the [University of Cambridge training pages](https://training.csx.cam.ac.uk/bioinformatics/event/3129158) to book a spot on this course.
