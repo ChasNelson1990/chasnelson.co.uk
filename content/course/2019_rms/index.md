@@ -14,7 +14,7 @@ date_end: 2019-12-13T14:30:00+01:00
 publishDate: 2019-01-05T14:45:00+01:00
 all_day: true
 
-authors: ["chas", "[Miks Kundegorski](https://mixmixmix.github.io/)"]
+authors: ["[Dominic Waithe](https://www.rdm.ox.ac.uk/people/dominic-waithe)", "chas", "[Stephen Cross](https://research-information.bristol.ac.uk/en/persons/stephen-cross(08ab0aa3-3831-494b-9cf9-b9b988a9108c).html)", "[Miks Kundegorski](https://mixmixmix.github.io/)", "[Gabriella Rustici](https://www.sanger.ac.uk/people/directory/aleksandra-ola-tarkowska)", "[Ola (Alexandra) Tarkowska](https://www.sanger.ac.uk/people/directory/aleksandra-ola-tarkowska)", "[Todd Fallesen] (https://uk.linkedin.com/in/todd-fallesen-9460888)"]
 tags: []
 
 # Is this a featured talk? (true/false)

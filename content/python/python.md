@@ -11,7 +11,10 @@ title = "Python \"Zero-to-Hero\" Beginner's Course"
   columns = "1"
 
 +++
-This course contains materials for a 1-day beginner's python course which we have delivered several times now. However, these materials have been developed so that students can work through the materials in their own time and at their own rate. Feel free to download the materials and work your way through the course; you can download the whole course from [here](https://github.com/ChasNelson1990/python-zero-to-hero-course).
+This course contains materials for a 1-day beginner's python course which we have delivered several times now. However, these materials have been developed so that students can work through the materials in their own time and at their own rate. Feel free to download the materials and work your way through the course; you can download the whole course from [here](https://github.com/ChasNelson1990/python-zero-to-hero-beginners-course).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChasNelson1990/python-zero-to-hero-beginners-course/master)
+If you wish to quickly explore the course, you could use Binder (by clicking the button above). However, this won't save your progress as you go along so we suggest installing locally as described below.
 
 ### Aim
 
@@ -39,7 +42,7 @@ We have designed this course in such a way that it should be easy to follow and 
 
 In order to aid working through the notebooks we have provided short videos for all tasks and exercises. These videos provide complete answers for every task and should be viewed after attempting each task or exercise.
 
-In order to work through the notebooks please follow the instructions in `setup.pdf` for installing Python and Jupyter Lab on your computer, dowload this repository (green button at the top of the landing page), unzip the files and navigate to them from within Jupyter Lab.
+In order to work through the notebooks please follow the instructions in [`setup.pdf`](https://github.com/ChasNelson1990/python-zero-to-hero-beginners-course/raw/master/setup/setup.pdf) for installing Python and Jupyter Lab on your computer, dowload this repository as a `.zip` file (using the green button at the top of the landing page), unzip the files and navigate to them from within Jupyter Lab.
 
 We suggest you work through each notebook in turn, attempting at least the tasks on your first run-through. You can then use the exercises to revisit and revise topics when you go through the notebooks again in the future. As with all languages, practice makes perfect.
 
