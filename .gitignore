@@ -3,3 +3,4 @@
 .htaccess
 **/public/
 **/_gen/**
+launch.json
