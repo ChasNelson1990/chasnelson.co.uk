@@ -15,12 +15,14 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+        with:
+          submodules: true
 
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
-          HUGO_VERSION: 0.57.2
+          HUGO_VERSION: 0.65.3
           TARGET_REPO: ChasNelson1990/chasnelson.co.uk_public
           TOKEN: ${{ secrets.PAK }}
           HUGO_ARGS: '-t academic'
-          CNAME: chasnelson.co.uk
+          CNAME: ww.chasnelson.co.uk
