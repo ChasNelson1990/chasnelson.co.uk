@@ -26,5 +26,4 @@ jobs:
           HUGO_VERSION: 0.68.3
           TARGET_REPO: ChasNelson1990/chasnelson.co.uk_public
           TOKEN: ${{ secrets.PAK }}
-          HUGO_ARGS: --debug --theme academic
           CNAME: www.chasnelson.co.uk
