@@ -19,6 +19,9 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          
+      - name: Where am I?
+        run: pwd
 
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
