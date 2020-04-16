@@ -1,6 +1,5 @@
 **/cgi-bin/
 **/.well-known/
 .htaccess
-**/public/
 **/_gen/**
 launch.json
