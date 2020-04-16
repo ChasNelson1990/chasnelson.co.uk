@@ -21,6 +21,6 @@ jobs:
         env:
           HUGO_VERSION: 0.57.2
           TARGET_REPO: ChasNelson1990/chasnelson.co.uk_public
-          TOKEN: ${{ secrets.pak }}
+          TOKEN: ${{ secrets.PAK }}
           HUGO_ARGS: '-t academic'
           CNAME: chasnelson.co.uk
