@@ -1,9 +1,18 @@
 ---
 title: The Little Eye Blog
 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
 view: 3
 
-alias: ["/the-little-eye/"]
+aliases: ["/the-little-eye/"]
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 ### A Point of View on Microscopy Research, the History of the Microscope and a hint of Interdisciplinary Academia

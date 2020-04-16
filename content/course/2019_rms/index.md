@@ -5,7 +5,8 @@ title: "Bioimage analysis with Python"
 event: "Image Analysis Focus Interest Group (Royal Microscopical Society)"
 event_url: "https://training.csx.cam.ac.uk/bioinformatics/event/3129158"
 location: "Cambridge, UK"
-summary: "The aim of this 5 days course is to develop motivated participants toward becoming independent BioImage Analysts in an imaging facility or research role. Participants will be taught theory and algorithms relating to bioimage analysis using Python as the primary coding language. Lectures will focus on image analysis theory and applications. Topics to be covered include: Image Analysis and image processing, Python and Jupyter notebooks, Visualisation, Fiji to Python, Segmentation, Omero and Python, Image Registration, Colocalisation, Time-series analysis, Tracking, Machine Learning, and Applied Machine Learning. "
+summary: "First week-long course for bioimage analysts wishing to learn python."
+absract: "The aim of this 5 day course is to develop motivated participants toward becoming independent BioImage Analysts in an imaging facility or research role. Participants will be taught theory and algorithms relating to bioimage analysis using Python as the primary coding language. Lectures will focus on image analysis theory and applications. Topics to be covered include: Image Analysis and image processing, Python and Jupyter notebooks, Visualisation, Fiji to Python, Segmentation, Omero and Python, Image Registration, Colocalisation, Time-series analysis, Tracking, Machine Learning, and Applied Machine Learning. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -14,7 +15,7 @@ date_end: 2019-12-13T14:30:00+01:00
 publishDate: 2019-01-05T14:45:00+01:00
 all_day: true
 
-authors: ["[Dominic Waithe](https://www.rdm.ox.ac.uk/people/dominic-waithe)", "chas", "[Stephen Cross](https://research-information.bristol.ac.uk/en/persons/stephen-cross(08ab0aa3-3831-494b-9cf9-b9b988a9108c).html)", "[Miks Kundegorski](https://mixmixmix.github.io/)", "[Gabriella Rustici](https://www.sanger.ac.uk/people/directory/aleksandra-ola-tarkowska)", "[Ola (Alexandra) Tarkowska](https://www.sanger.ac.uk/people/directory/aleksandra-ola-tarkowska)", "[Todd Fallesen] (https://uk.linkedin.com/in/todd-fallesen-9460888)"]
+authors: ["[Dominic Waithe](https://www.rdm.ox.ac.uk/people/dominic-waithe)", "chas", "[Stephen Cross](https://research-information.bristol.ac.uk/en/persons/stephen-cross(08ab0aa3-3831-494b-9cf9-b9b988a9108c).html)", "[Miks Kundegorski](https://mixmixmix.github.io/)", "[Gabriella Rustici](https://www.sanger.ac.uk/people/directory/aleksandra-ola-tarkowska)", "[Ola (Alexandra) Tarkowska](https://www.sanger.ac.uk/people/directory/aleksandra-ola-tarkowska)", "[Todd Fallesen](https://uk.linkedin.com/in/todd-fallesen-9460888)"]
 tags: []
 
 # Is this a featured talk? (true/false)
