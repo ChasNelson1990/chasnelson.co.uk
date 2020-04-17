@@ -2,7 +2,6 @@
 title: Engagement
 summary: Chas Nelson Public Engagement and Policy
 date: "2020-04-17T00:00:00Z"
-authors: ["chas"]
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
@@ -15,7 +14,7 @@ header:
   image: ""
 ---
 
-### Policy Engagement
+## Policy Engagement
 
 Research drives societal changes.
 Whether it's the study of blue skies problems, the development of new technologies or understanding impacts on public health, researchers and policy-makers need to keep engaged.
@@ -27,7 +26,7 @@ I am actively engaged with national policy makers through my work with the Royal
 As a PhD student I interned at the BBSRC on their <a href="https://bbsrc.ukri.org/about/reviews/scientific-areas/bbsrc-strategic-review-of-bioimaging/" target="_blank" rel="noreferrer noopener">Strategic Review of Bioimaging</a> (see also <a href="https://www.dur.ac.uk/wolfson.institute/wrinews/?itemno=28134" target="_blank" rel="noreferrer noopener">here</a>).
 
 
-### Public Engagement and Outreach
+## Public Engagement and Outreach
 
 Public engagement is an important part of modern science - much of which is funded by tax-payers and public donations.
 As such, I am regularly involved in public lectures and events such as <a href="https://www.cafescientifique.org/" target="_blank" rel="noreferrer noopener">Cafe Scientifique</a> meetings.
@@ -40,7 +39,7 @@ Recent events include:
   * [7 Minutes of Science]({{<ref "/talk/2019_7min/index.md">}})
   * [Cafe Scientifique Cockermouth]({{<ref "talk/2019_cafe-sci/index.md">}})
 
-### Involvement with Learned Societies
+## Involvement with Learned Societies
 
 Learned societies provide a strong conduit for public and policy engagement as well as bringing scientific communities together.
 I am an active member of two learned communities:

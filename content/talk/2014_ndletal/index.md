@@ -15,7 +15,7 @@ date_end: 2014-07-10T14:00:00+01:00
 all_day: false
 
 authors: ["chas", "Martin Dixon", "[P. Philippe Laissue](https://www.essex.ac.uk/people/laiss31109/philippe-laissue)", "[Boguslaw Obara](https://community.dur.ac.uk/boguslaw.obara/)"]
-tags: []
+tags: ["test"]
 
 # Is this a featured talk? (true/false)
 featured: false
