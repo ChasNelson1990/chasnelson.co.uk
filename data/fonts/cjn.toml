@@ -6,10 +6,10 @@ google_fonts = ""
 
 # Font families
 heading_font = "Raleway"
-body_font = "GenLight"
+body_font = "Raleway"
 nav_font = "Raleway"
-mono_font = "RursusCompactMonoMedium"
+mono_font = "monospace"
 
 # Font size
 font_size = "16"
-font_size_small = "14"
+font_size_small = "12"
