@@ -43,6 +43,12 @@
   weight = 20
 
 [[main]]
+  parent = "research"
+  name = "Presentations"
+  url = "#talks"
+  weight = 30
+
+[[main]]
   name = "Training"
   url = "training"
   identifier = "training"
