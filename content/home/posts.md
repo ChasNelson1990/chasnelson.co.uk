@@ -61,7 +61,7 @@ subtitle = "Recent Blog Posts"
   
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 1px"
+ css_style = "padding-bottom: 10px"
  
  # CSS class.
  css_class = ""

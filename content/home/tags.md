@@ -22,5 +22,5 @@ subtitle = "Blog Topics"
 
 [advanced]
  # Custom CSS.
- css_style = "padding-top: 1px"
+ css_style = "padding-top: 10px"
 +++
