@@ -1,8 +1,8 @@
 ---
-title: "Neuronal Graphs"
-summary: "Using graph theory and network science to understand the brain. [Read more...](/project/neuronal-graphs/index.html)"
+title: "3D Segmentation Techniques"
+summary: "Using active meshes and level set methods for improved 3D segmentation. [Read more...](/project/3d-segmentation/index.html)"
 authors: []
-tags: ["current","analysis","data","vision","biology"]
+tags: ["analysis","data","vision","biology"]
 categories: ["research", "project"]
 date: 2020-04-17T00:00:00+01:00
 
@@ -13,7 +13,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Graph of functionally connected neurons extracted from MEA recordings."
+  caption: "TOREPLACE."
   focal_point: "Smart"
   preview_only: false
 
@@ -40,7 +40,7 @@ url_poster: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As a LKAS Research Fellow in Data Science and, previously, an EPSRC Doctoral Prize Research Fellow (University of Glasgow), I am investigating the use of graph theory, the mathematical background to network science, to understand how networks of neurons change organisation throughout development.
-In particular, I am developing analysis pipelines for the quantitative exploration of whole-brain zebrafish calcium imaging experiments and mouse retin multi-electrode array (MEA) recordings.
+Working with researchers at Durham University I published articles on the use of 3D active mesh and 3D level-set segmentaton tools.
+These works focussed on user-friendly tools for fast and accurate 3D segmentation in biological and medical images.
 
-My contribution to this work is funded by my EPSRC Doctoral Prize Research Fellowship and my LKAS Research Fellowship in Data Science (University of Glasgow).
+My contribution to this work was funded by EPSRC.

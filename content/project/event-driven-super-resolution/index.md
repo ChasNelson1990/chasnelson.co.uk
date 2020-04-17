@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Imaging the Developing Eye"
-summary: ""
+title: "Event-based Super-resolution Microscopy"
+summary: "Using novel event-based sensors to improve the speed of super-resolution microscopy. [Read more...](/project/event-driven-super-resoluton/index.html)"
 authors: []
-tags: ["current","microscopy","vision"]
-categories: []
-date: 2019-06-25T15:50:01+01:00
+tags: ["current","microscopy","data","biology"]
+categories: ["research", "project"]
+date: 2020-04-17T00:00:00+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Optical modelling of the zebrafish eye shows how the lens focusses light."
+  caption: "TOREPLACE."
   focal_point: "Smart"
   preview_only: false
 
@@ -42,5 +42,7 @@ url_poster: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Co-supervising a PhD student at the University of Glasgow working on super-resolution microscopy, particularly STORM-like approaches, we have been investigating how event-based sensors can be used to improve speed and throughput in super-resolution techniques.
+We hope this research will open up new possibilities for different fluorphores and for real-time super-resolution imaging.
 
-As an EPSRC Doctoral Prize Research Fellow (University of Glasgow) I have begun to explore the challenges of imaging eye development in zebrafish. The two key challenges are the optical power of the eye lens, which focusses light in a way undesirable for imaging, and the light-sensitive nature of the retina.
+My contribution to this work is funded by my LKAS Research Fellowship in Data Science (University of Glasgow).

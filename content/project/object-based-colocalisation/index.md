@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Object-based Colocalisation"
-summary: ""
+summary: "Using object-based colocalisation to quantify the interactions between protein structures in cellular biology. [Read more...](/project/object-based-colocalisation/index.html)"
 authors: []
-tags: ["microscopy","analysis"]
-categories: []
-date: 2014-03-04T13:14:30+01:00
+tags: ["analysis","biology"]
+categories: ["research", "project"]
+date: 2019-05-31T13:29:26+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -43,8 +43,7 @@ url_poster: ""
 slides: ""
 ---
 
-Working with researchers at Durham University, the University of Essex and the University of Exeter, I published an article focussing on the benefits of using object-based approaches to quantify colocalisation experiments. The article highlighted not only the benefits of such an approach but the importance of understanding the underlying algorithms and their assumptions by showing the biases and uncertainties of the approach.
+Working with researchers at Durham University, the University of Essex and the University of Exeter, I published an article focussing on the benefits of using object-based approaches to quantify colocalisation experiments.
+The article highlighted not only the benefits of such an approach but the importance of understanding the underlying algorithms and their assumptions by showing the biases and uncertainties of the approach.
 
 My contribution to this work was funded by EPSRC.
-
-The key output of this work was published in <a href="https://doi.org/10.1071/FP14047" target="_blank" rel="noreferrer noopener" aria-label="Functional Plant Biology (opens in a new tab)">Functional Plant Biology</a>.

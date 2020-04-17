@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quantiative Calcium Imaging with Computational Optics"
-summary: ""
+title: "Quantiative Calcium Imaging"
+summary: "Investigating volumetric and computational imaging approaches for accurately measuring calcium signals between neurons. [Read more...](/project/quantitative-calcium-imaging/index.html)"
 authors: []
-tags: ["current","microscopy","neuroscience","analysis"]
-categories: []
-date: 2019-06-25T15:50:33+01:00
+tags: ["current","data","biology","analysis"]
+categories: ["research", "project"]
+date: 2019-05-31T13:29:26+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "TOADD"
   focal_point: "Smart"
   preview_only: false
 
@@ -43,4 +43,7 @@ url_poster: ""
 slides: ""
 ---
 
-Working with the Imaging Concepts Group (University of Glasgow) I am interested in comparing how different computational imaging approaches to calcium imaging effect the analysis of calcium signalling between neurons.
+Working with the Imaging Concepts Group (University of Glasgow) I am interested in comparing how different approaches to fast volumetric imaging, including event-based volumetric imaging and computational imaging approaches, effect the analysis of calcium signalling between neurons.
+Understanding how our imaging effects the analysis of biological events is important for ensuring that good biology is being carried out and that results and robust and reliable before conclusions are drawn.
+
+This work is funded by my LKAS Research Fellowship in Data Science (University of Glasgow).

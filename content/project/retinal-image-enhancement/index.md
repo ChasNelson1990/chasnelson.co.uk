@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vessel Enhancement"
-summary: ""
+title: "Retinal Vessel Enhancement"
+summary: "Using mathematical approaches to enhance images for improved vessel extraction. [Read more...](/project/retinal-image-enhancement/index.html)"
 authors: []
-tags: ["analysis","vision"]
-categories: []
-date: 2019-06-25T13:29:33+01:00
+tags: ["analysis","vision","health"]
+categories: ["research", "project"]
+date: 2019-05-31T13:29:26+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,8 +42,7 @@ url_poster: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Working with Cigdem Sazak and [Boguslaw Obara](https://community.dur.ac.uk/boguslaw.obara/) (Durham University) I developed a new approach for the enhancement of vessel-like objects in biological and medical imaging called the bowler-hat transform. We have used this approach in the analysis of fungal and slime mould networks, with our collaborator Mark Fricker (Oxford University), retinal imaging and brain vasculature.
+Working with colleagues at Durham University, I developed new approaches for the enhancement of vessel-like objects in 2D and 3D biological and medical imaging.
+One technique, the bowler-hat transform, we have used in the analysis 2D retinal fundus images, 3D brain vasculature in MRA data and for fungal and slime mould networks, with our collaborator Mark Fricker (Oxford University).
 
 My contribution to this work was funded by the EPSRC.
-
-The key output of this work was published in <a href="https://doi.org/10.1016/j.patcog.2018.10.011" target="_blank">Pattern Recognition</a>.

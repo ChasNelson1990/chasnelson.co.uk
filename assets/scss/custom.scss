@@ -9,7 +9,19 @@ nav#navbar-main li.nav-item {
     font-weight: normal;
 }
 
-// width for widget and list pages
-.universal-wrapper {
-    max-width: 760px;;
+// width for list pages
+.universal-wrapper{
+    max-width: 760px;
+    margin: auto;
+}
+
+// widths and margins for non-home page widgets
+// manually defined
+#research{
+    max-width: 760px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+#projects{
+    padding-top: 10px;
 }

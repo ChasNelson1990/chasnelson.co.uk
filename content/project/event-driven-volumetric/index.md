@@ -1,8 +1,10 @@
 ---
-title: "Neuronal Graphs"
-summary: "Using graph theory and network science to understand the brain. [Read more...](/project/neuronal-graphs/index.html)"
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Very Fast Volumetric Microscopy"
+summary: "Using novel event-based sensors to improve the speed of light sheet fluorescence microscopy for very fast volumetric imaging. [Read more...](/project/event-based-volumetric/index.html)"
 authors: []
-tags: ["current","analysis","data","vision","biology"]
+tags: ["current","microscopy","data","biology"]
 categories: ["research", "project"]
 date: 2020-04-17T00:00:00+01:00
 
@@ -13,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Graph of functionally connected neurons extracted from MEA recordings."
+  caption: "TOREPLACE."
   focal_point: "Smart"
   preview_only: false
 
@@ -40,7 +42,7 @@ url_poster: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As a LKAS Research Fellow in Data Science and, previously, an EPSRC Doctoral Prize Research Fellow (University of Glasgow), I am investigating the use of graph theory, the mathematical background to network science, to understand how networks of neurons change organisation throughout development.
-In particular, I am developing analysis pipelines for the quantitative exploration of whole-brain zebrafish calcium imaging experiments and mouse retin multi-electrode array (MEA) recordings.
+As part of my LKAS Research Fellowship in Data Science, I have been investigating how event-based sensors can be used to improve the speed of light sheet fluorescence microscopy.
+I hope this research will open up new possibilities for very fast volumetric imaging of highly dynamic biology, e.g. the beating heart or calcium imaging of neurons.
 
-My contribution to this work is funded by my EPSRC Doctoral Prize Research Fellowship and my LKAS Research Fellowship in Data Science (University of Glasgow).
+My contribution to this work is funded by my LKAS Research Fellowship in Data Science (University of Glasgow).

@@ -52,7 +52,6 @@ Here are links to a few resources that I've put together as part of my teaching 
 
   * Slides and samples codes for my talk to engineering and computing sciences PhD students: _Harry Plotter and the Multiple Visualisation Softwares can be found on my GitHub account [here](https://github.com/ChasNelson1990/harry-plotter-resources)._
 
-## In-person Training Opportunities
+## In-person Training Opportunities - Past and Upcoming
 
-<br/>
 <br/>
