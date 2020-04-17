@@ -28,7 +28,7 @@ header:
 With a background in both data science and biology I am well aware of the importance of good programming and data skills for successful biological studies.
 As such, I am actively engaged in training the community through learned society-sponsored training events.
 
-Currently, I deliver two [Python for Biologists]({{<ref "/python/index.md">}}) and [Bioimage Analysis in Python]() in person; however, I (and my colleagues) are working hard to make these resources openly available on-line as well.
+Currently, I deliver two [Python for Beginners]({{<ref "/python/index.md">}}) and [Bioimage Analysis in Python]() in person; however, I (and my colleagues) are working hard to make these resources openly available on-line as well.
 
 Find out about in-person training opportunities [below](#in-person-training-opportunities).
 
@@ -52,6 +52,6 @@ Here are links to a few resources that I've put together as part of my teaching 
 
   * Slides and samples codes for my talk to engineering and computing sciences PhD students: _Harry Plotter and the Multiple Visualisation Softwares can be found on my GitHub account [here](https://github.com/ChasNelson1990/harry-plotter-resources)._
 
-## In-person Training Opportunities - Past and Upcoming
+## In-person Training Opportunities
 
 <br/>

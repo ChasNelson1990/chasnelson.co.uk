@@ -56,9 +56,21 @@
 
 [[main]]
   parent = "training"
-  name = "Python Course for Beginner's"
+  name = "Python Beginners' Course"
   url = "python"
   weight = 20
+
+[[main]]
+  parent = "training"
+  name = "Bioimage Processing in Python"
+  url = "impython"
+  weight = 30
+
+[[main]]
+  parent = "training"
+  name = "Bioimage Analysis in Python"
+  url = "bapython"
+  weight = 40
 
 [[main]]
   name = "Engagement"
