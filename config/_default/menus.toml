@@ -16,7 +16,7 @@
 [[main]]
   parent = "blog"
   name = "Blog Posts"
-  url = "post"
+  url = "the-little-eye"
   weight = 10
 
 [[main]]
@@ -39,14 +39,8 @@
 [[main]]
   parent = "research"
   name = "Publications"
-  url = "#recent-publications"
+  url = "#publications"
   weight = 20
-
-[[main]]
-  parent = "research"
-  name = "Publications"
-  url = "#featured"
-  weight = 10
 
 [[main]]
   name = "Training"
