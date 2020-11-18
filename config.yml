@@ -1,0 +1,120 @@
+baseURL: "/"
+title: Chas Nelson
+paginate: 5
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Chas Nelson
+  description: "Chas Nelson"
+  author: Chas Nelson
+  # author: ["Me", "You"] # multiple authors
+
+  # images: "<link or path of image for opengraph, twitter-cards>"
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: true
+
+  # assets:
+  #   favicon: "<link / abs url>"
+  #   favicon16x16: "<link / abs url>"
+  #   favicon32x32: "<link / abs url>"
+  #   apple_touch_icon: "<link / abs url>"
+  #   safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Chas Nelson"
+    # icon: /apple-touch-icon.png
+    # iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Chas Nelson
+    imageUrl: "/img/IMGP8309_cropped.jpg"
+    imageTitle: Chas Nelson
+    # imageWidth: 120
+    # imageHeight: 120
+    subtitle: "Chartered Biologist and data scientist with a focus on imaging, AI and privacy."
+    content: >
+      Chief Technology Officer @ [gliff.ai](https://gliff.ai).  
+
+      Honorary Research Fellow @ [University of Glasgow](https://www.gla.ac.uk/schools/physics/staff/chasnelson/).  
+
+      Consultant Data Scientist @ [Fjelltopp](https://www.fjelltopp.org/).  
+
+      Chartered Biologist & Member of Scotland Branch Committee of the [Royal Society of Biology](https://www.rsb.org.uk/).  
+
+      Fellow of the [Royal Microscopical Society](https://www.rms.org.uk/).
+    buttons:
+      - name: Python Training
+        url: training
+      - name: Archived Posts
+        url: archives
+
+  # home-info mode
+  homeInfoParams:
+    imageUrl: "/img/IMGP8309_cropped.jpg"
+    imageTitle: Chas Nelson
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/ChasNelson1990"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/ChasNelson1990"
+    - name: linkedin
+      url: "https://linkedin.com/ChasNelson1990"
+    - name: googlescholar
+      url: "https://linkedin.com/ChasNelson1990"
+
+  # analytics:
+  # google:
+  #     SiteVerificationTag: "XYZabc"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
