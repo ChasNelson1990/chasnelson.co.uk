@@ -82,9 +82,9 @@ params:
     - name: github
       url: "https://github.com/ChasNelson1990"
     - name: linkedin
-      url: "https://linkedin.com/ChasNelson1990"
+      url: "https://linkedin.com/in/ChasNelson1990"
     - name: googlescholar
-      url: "https://linkedin.com/ChasNelson1990"
+      url: "https://scholar.google.com/citations?hl=en&user=lYGU2EoAAAAJ"
 
   # analytics:
   # google:
