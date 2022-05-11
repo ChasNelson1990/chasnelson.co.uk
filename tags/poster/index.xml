@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>poster on Chas Nelson</title>
+    <link>/tags/poster/</link>
+    <description>Recent content in poster on Chas Nelson</description>
+    <image>
+      <url>cjn.jpg</url>
+      <link>cjn.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optical Gating for Cardiac Imaging in Dynamic Samples, from Milliseconds to Days</title>
+      <link>/posts/talk/2019_tnz/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/talk/2019_tnz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Optically-Gated Light Sheet Microscopy Allows Long-term Timelapse Imaging in the Developing Zebrafish Heart</title>
+      <link>/posts/talk/2018_nzbetalb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/talk/2018_nzbetalb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up active mesh segmentation by local termination of nodes</title>
+      <link>/posts/talk/2014_ndletal/</link>
+      <pubDate>Thu, 10 Jul 2014 12:30:00 +0100</pubDate>
+      
+      <guid>/posts/talk/2014_ndletal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bioimage Informatics QVEST: Quick, Versatile and Easy Segmentation &amp; Tracking System</title>
+      <link>/posts/talk/2014_no/</link>
+      <pubDate>Wed, 02 Jul 2014 14:45:00 +0100</pubDate>
+      
+      <guid>/posts/talk/2014_no/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TANGL:  Bioimage Informatics Tools for Analysis of 3D/4D Network Geometries for Life Sciences</title>
+      <link>/posts/talk/2013_nhd/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/talk/2013_nhd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

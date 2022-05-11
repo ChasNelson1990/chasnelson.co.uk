@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>oral on Chas Nelson</title>
+    <link>/tags/oral/</link>
+    <description>Recent content in oral on Chas Nelson</description>
+    <image>
+      <url>cjn.jpg</url>
+      <link>cjn.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Jun 2018 14:45:00 +0100</lastBuildDate><atom:link href="/tags/oral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Optical Gating Allows 4D Imaging and Quantification in the Developing Zebrafish Heart</title>
+      <link>/posts/talk/2018_nzbetal/</link>
+      <pubDate>Thu, 28 Jun 2018 14:45:00 +0100</pubDate>
+      
+      <guid>/posts/talk/2018_nzbetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging the developing heart: synchronized time-lapse microscopy during developmental changes</title>
+      <link>/posts/talk/2018_nbmetal/</link>
+      <pubDate>Wed, 31 Jan 2018 14:10:00 +0100</pubDate>
+      
+      <guid>/posts/talk/2018_nbmetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Optically-Gated Light Sheet Microscopy Allows Long-term Timelapse Imaging in the Developing Zebrafish Heart</title>
+      <link>/posts/talk/2018_nzbetalb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/talk/2018_nzbetalb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of High-Speed Level Set Segmentation to Light Sheet Fluorescence Microscopy</title>
+      <link>/posts/talk/2016_wjnetal/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/talk/2016_wjnetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bioimage Informatics QVEST: Quick, Versatile and Easy Segmentation &amp; Tracking System</title>
+      <link>/posts/talk/2014_no/</link>
+      <pubDate>Wed, 02 Jul 2014 14:45:00 +0100</pubDate>
+      
+      <guid>/posts/talk/2014_no/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
