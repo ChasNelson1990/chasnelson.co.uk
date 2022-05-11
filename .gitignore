@@ -4,3 +4,4 @@
 **/_gen/**
 launch.json
 **/public/**
+.hugo_build.lock
