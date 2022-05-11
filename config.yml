@@ -78,7 +78,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:#"
+      url: "contact"
     - name: twitter
       url: "https://twitter.com/ChasNelson1990"
     - name: github
