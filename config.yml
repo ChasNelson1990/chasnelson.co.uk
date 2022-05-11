@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: ""
 title: Chas Nelson
 paginate: 5
 theme: hugo-PaperMod
@@ -32,7 +32,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: false
-  ShowReadingTime: true
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
@@ -55,6 +55,8 @@ params:
       #   url: training
       # - name: Archived Posts
       #   url: archives
+      - name: Contact
+        url: contact
     subtitle: >
       Chartered Biologist & PhD data scientist  
 
