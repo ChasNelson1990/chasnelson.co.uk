@@ -1,0 +1,71 @@
+theme = "awesome-identity"
+baseURL = ""
+title = "Chas Nelson - Data Scientist / Chartered Biologist / Technology Leader"
+
+languageCode = "en-gb"
+# Content without language indicator will default to this language
+defaultContentLanguage = "en"
+# Make .Summary and .WordCount behave correctly for CJK languages
+hasCJKLanguage = true
+PygmentsCodeFences = true
+# Enable to turn relative URLs into absolute
+canonifyURLs = true
+# Do not convert the url/path to lowercase
+disablePathToLower = false
+# Enable Emoji emoticons support for page content
+enableEmoji = true
+# Update the `Lastmod` parameter for each page using the last git commit date for that content file
+enableGitInfo = true
+# Enable generation of `robots.txt` file
+enableRobotsTXT = true
+
+
+## Meta Configurations (HTTP Meta tags & OpenGraph)
+[params.meta]
+  description = "Chartered Biologist and PhD data scientist focussed on using data to change the world for the better"
+  keywords = "Chas, Chas Nelson, data, scientist, biologist, engineer, developer, leader, technology"
+  images = [
+    "cjn.jpg"
+  ]
+
+## Profile Configurations
+[params.profile]
+  portrait = "cjn.jpg"
+  firstname = "Chas"
+  lastname = "Nelson"
+  title = "Data Scientist · Chartered Biologist · Technology Leader"
+  bio = """
+Chartered Biologist & PhD data scientist  
+focussed on how data can help us reach [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) 🇺🇳.  
+<br/> Founder, Director & Chief Technology Officer @ [gliff.ai](https://gliff.ai).  
+Honorary Research Fellow @ [University of Glasgow](https://www.gla.ac.uk/schools/physics/staff/chasnelson/).  
+Consultant Data Scientist @ [Fjelltopp](https://www.fjelltopp.org/).  
+Depute Chair (Policy) @ [Royal Society of Biology](https://www.rsb.org.uk/) in Scotland.  
+Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://www.rms.org.uk/community/science-sections/image-analysis.html).  
+<br/>
+"""
+
+## Contacts Configurations
+[params.contacts]
+  github = "ChasNelson1990"
+  twitter = "ChasNelson1990"
+  linkedin = "ChasNelson1990"
+  medium = "ChasNelson1990"
+
+
+## Actions Configurations
+[[params.actions]]
+  name = "Contact Me"
+  url = "contact"
+[[params.actions]]
+  name = "CV"
+  url = "cjn-cv.pdf"
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2022 Chas Nelson"
+  poweredBy = true
+
+[markup.goldmark.renderer]
+  unsafe = true

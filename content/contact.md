@@ -4,13 +4,6 @@ subtitle: ""
 summary: ""
 authors: ["chas"]
 date: 2020-05-11T18:18:53+01:00
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-projects: []
 ---
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xqknznvg" method="post" style="">
