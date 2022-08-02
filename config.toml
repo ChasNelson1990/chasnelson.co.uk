@@ -23,7 +23,7 @@ enableRobotsTXT = true
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
   description = "Chartered Biologist and PhD data scientist focussed on using data to change the world for the better"
-  keywords = "Chas, Chas Nelson, data, scientist, biologist, engineer, developer, leader, technology"
+  keywords = "Chas, Chas Nelson, data, scientist, biologist, engineer, developer, leader, technology, ChasNelson1990"
   images = [
     "cjn.jpg"
   ]
@@ -33,16 +33,14 @@ enableRobotsTXT = true
   portrait = "cjn.jpg"
   firstname = "Chas"
   lastname = "Nelson"
-  title = "Data Scientist · Chartered Biologist · Technology Leader"
+  title = "Data Scientist · Chartered Biologist"
   bio = """
-Chartered Biologist & PhD data scientist  
-focussed on how data can help us reach [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) 🇺🇳.  
+Chartered Biologist and PhD data scientist focussed on using data to change the world for the better.  
 <br/> Founder, Director & Chief Technology Officer @ [gliff.ai](https://gliff.ai).  
+Data Scientist @ [Fjelltopp](https://www.fjelltopp.org/).  
 Honorary Research Fellow @ [University of Glasgow](https://www.gla.ac.uk/schools/physics/staff/chasnelson/).  
-Consultant Data Scientist @ [Fjelltopp](https://www.fjelltopp.org/).  
 Depute Chair (Policy) @ [Royal Society of Biology](https://www.rsb.org.uk/) in Scotland.  
 Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://www.rms.org.uk/community/science-sections/image-analysis.html).  
-<br/>
 """
 
 ## Contacts Configurations
@@ -50,7 +48,7 @@ Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://ww
   github = "ChasNelson1990"
   twitter = "ChasNelson1990"
   linkedin = "ChasNelson1990"
-  medium = "ChasNelson1990"
+  medium = "@ChasNelson1990"
 
 
 ## Actions Configurations
