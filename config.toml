@@ -31,16 +31,23 @@ enableRobotsTXT = true
 ## Profile Configurations
 [params.profile]
   portrait = "cjn.jpg"
-  firstname = "Chas"
-  lastname = "Nelson"
-  title = "Data Scientist · Chartered Biologist"
+  firstname = "Dr"
+  lastname = "Chas Nelson"
+  title = "Data Consultant · Chartered Biologist"
   bio = """
-Chartered Biologist and PhD data scientist focussed on using data to change the world for the better.  
-<br/> Founder, Director & Chief Technology Officer @ [gliff.ai](https://gliff.ai).  
-Data Scientist @ [Fjelltopp](https://www.fjelltopp.org/).  
-Honorary Research Fellow @ [University of Glasgow](https://www.gla.ac.uk/schools/physics/staff/chasnelson/).  
+Data scientist and engineer focused on using data and technology to change the world for the better.
+10+ years experience in data for life sciences including data-driven public health insights, academic research in biomedicine, and AI for MedTech.
+Driven by creating sustainable transformation and development through data and technology.
+<br/>
+<br/>
+Data Consultant @ [Fjelltopp](https://www.fjelltopp.org/).  
+Technical Consultant @ [FAO Bangladesh](https://www.fao.org/bangladesh/en/).  
 Depute Chair (Policy) @ [Royal Society of Biology](https://www.rsb.org.uk/) in Scotland.  
 Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://www.rms.org.uk/community/science-sections/image-analysis.html).  
+<br/>
+<br/>
+Available for data science, data engineering, and data consultancy projects in the UK and internationally.  
+Also available for public speaking, workshops, and training.
 """
 
 ## Contacts Configurations
@@ -49,6 +56,7 @@ Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://ww
   twitter = "ChasNelson1990"
   linkedin = "ChasNelson1990"
   medium = "@ChasNelson1990"
+  gscholar = "lYGU2EoAAAAJ"
 
 
 ## Actions Configurations
@@ -62,7 +70,7 @@ Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://ww
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2022 Chas Nelson"
+  copyright = "© 2023 Chas Nelson"
   poweredBy = true
 
 [markup.goldmark.renderer]
