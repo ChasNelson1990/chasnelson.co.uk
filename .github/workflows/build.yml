@@ -22,5 +22,14 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - name: get CV
+        uses: robinraju/release-downloader@v1.8
+        with:
+          repository: ChasNelson1990/cv
+          latest: true
+          fileName: "cjn-cv.pdf"
+          out-file-path: "static"
+          token: ${{ secrets.GET_CV_TOKEN }}
+
       - name: build
         run: hugo --buildDrafts --gc --verbose --minify
