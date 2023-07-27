@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = ""
-title = "Chas Nelson - Data Scientist / Chartered Biologist / Technology Leader"
+title = "Dr Chas Nelson - International Data Consultant"
 
 languageCode = "en-gb"
 # Content without language indicator will default to this language
@@ -22,8 +22,7 @@ enableRobotsTXT = true
 
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
-  description = "Chartered Biologist and PhD data scientist focussed on using data to change the world for the better"
-  keywords = "Chas, Chas Nelson, data, scientist, biologist, engineer, developer, leader, technology, ChasNelson1990"
+  description = "Dr Chas Nelson is an International Data Consultant, PhD Data Scientist and Chartered Biologist focussed on using data to change the world for the better."
   images = [
     "cjn.jpg"
   ]
@@ -33,17 +32,17 @@ enableRobotsTXT = true
   portrait = "cjn.jpg"
   firstname = "Dr"
   lastname = "Chas Nelson"
-  title = "Data Consultant · Chartered Biologist"
+  title = "International Data Consultant · PhD Data Scientist · Chartered Biologist"
   bio = """
-Data scientist and engineer focused on using data and technology to change the world for the better.
-10+ years experience in data for life sciences including data-driven public health insights, academic research in biomedicine, and AI for MedTech.
-Driven by creating sustainable transformation and development through data and technology.
+Dr Chas Nelson is a data scientist and engineer focused on using data and technology to change the world for the better.
+They have 10+ years experience in data for life sciences including data-driven public health insights, academic research in biomedicine, and AI for MedTech.
+Chas is driven by creating sustainable transformation and development through data and technology across the globe.
 <br/>
 <br/>
-Data Consultant @ [Fjelltopp](https://www.fjelltopp.org/).  
-Technical Consultant @ [FAO Bangladesh](https://www.fao.org/bangladesh/en/).  
+International Data Consultant @ [Fjelltopp](https://www.fjelltopp.org/).  
+International Technical Consultant @ [FAO Bangladesh](https://www.fao.org/bangladesh/en/).  
+Data & AI Consultant @ [Northumbrian Data](https://northumbriandata.org/).  
 Depute Chair (Policy) @ [Royal Society of Biology](https://www.rsb.org.uk/) in Scotland.  
-Data Analysis in Imaging Deputy Chair @ [Royal Microscopical Society](https://www.rms.org.uk/community/science-sections/image-analysis.html).  
 <br/>
 <br/>
 Available for data science, data engineering, and data consultancy projects in the UK and internationally.  
